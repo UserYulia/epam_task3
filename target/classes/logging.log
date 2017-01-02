@@ -1,0 +1,1525 @@
+2016-12-24 08:37:58 INFO  Client:16 - Client Dekstor visit the Restaurant.
+2016-12-24 08:40:14 INFO  Client:18 - Client Dekstor visit the Restaurant.
+2016-12-24 08:40:14 INFO  Client:20 - Dekstor had chosen CashDesk#4
+2016-12-24 08:40:23 INFO  Client:18 - Client Dekstor visit the Restaurant.
+2016-12-24 08:40:23 INFO  Client:20 - Dekstor had chosen CashDesk#2
+2016-12-24 08:40:27 INFO  Client:18 - Client Dekstor visit the Restaurant.
+2016-12-24 08:40:27 INFO  Client:20 - Dekstor had chosen CashDesk#3
+2016-12-24 08:43:18 INFO  Client:19 - Client Dekstor visit the Restaurant.
+2016-12-24 08:43:19 INFO  Client:21 - Dekstor had chosen CashDesk#4
+2016-12-24 08:43:19 INFO  CashDesk:32 - Client Dekstor is serving on cashDesk#4
+2016-12-24 08:43:19 INFO  CashDesk:38 - Client Dekstor is served
+2016-12-24 08:43:56 INFO  Client:19 - Client Dekstor visit the Restaurant.
+2016-12-24 08:43:57 INFO  Client:21 - Dekstor had chosen CashDesk#1
+2016-12-24 08:43:57 INFO  CashDesk:32 - Client Dekstor is serving on cashDesk#2
+2016-12-24 08:43:57 INFO  CashDesk:38 - Client Dekstor is served
+2016-12-24 08:54:42 INFO  Client:19 - Client Emma visit the Restaurant.
+2016-12-24 08:54:42 INFO  Client:19 - Client Dekstor visit the Restaurant.
+2016-12-24 08:54:42 INFO  Client:56 - Client Emma had chosen CashDesk#3
+2016-12-24 08:54:42 INFO  Client:56 - Client Emma had chosen CashDesk#4
+2016-12-24 08:54:42 INFO  CashDesk:32 - Client Emma is serving on cashDesk#4
+2016-12-24 08:54:42 INFO  Client:19 - Client Vadim visit the Restaurant.
+2016-12-24 08:54:42 INFO  Client:56 - Client Vadim had chosen CashDesk#4
+2016-12-24 08:54:42 INFO  Client:19 - Client Jesika visit the Restaurant.
+2016-12-24 08:54:42 INFO  Client:56 - Client Jesika had chosen CashDesk#1
+2016-12-24 08:54:42 INFO  Client:56 - Client Jesika had chosen CashDesk#4
+2016-12-24 08:54:42 INFO  Client:56 - Client Vadim had chosen CashDesk#4
+2016-12-24 08:54:42 INFO  CashDesk:38 - Client Emma is served
+2016-12-24 08:54:42 INFO  Client:56 - Client Dekstor had chosen CashDesk#4
+2016-12-24 08:54:42 INFO  CashDesk:32 - Client Vadim is serving on cashDesk#4
+2016-12-24 08:54:42 INFO  CashDesk:32 - Client Jesika is serving on cashDesk#4
+2016-12-24 08:54:42 INFO  Client:56 - Client Dekstor had chosen CashDesk#4
+2016-12-24 08:54:42 INFO  CashDesk:32 - Client Dekstor is serving on cashDesk#4
+2016-12-24 08:54:42 INFO  CashDesk:38 - Client Vadim is served
+2016-12-24 08:54:42 INFO  CashDesk:38 - Client Jesika is served
+2016-12-24 08:54:42 INFO  CashDesk:38 - Client Dekstor is served
+2016-12-24 08:55:48 INFO  Client:19 - Client Emma visit the Restaurant.
+2016-12-24 08:55:48 INFO  Client:19 - Client Vadim visit the Restaurant.
+2016-12-24 08:55:48 INFO  Client:56 - Client Emma had chosen CashDesk#2
+2016-12-24 08:55:48 INFO  Client:56 - Client Emma had chosen CashDesk#2
+2016-12-24 08:55:48 INFO  Client:56 - Client Vadim had chosen CashDesk#2
+2016-12-24 08:55:48 INFO  Client:56 - Client Vadim had chosen CashDesk#3
+2016-12-24 08:55:48 INFO  Client:19 - Client Jesika visit the Restaurant.
+2016-12-24 08:55:48 INFO  Client:56 - Client Jesika had chosen CashDesk#2
+2016-12-24 08:55:48 INFO  Client:56 - Client Jesika had chosen CashDesk#4
+2016-12-24 08:55:48 INFO  CashDesk:37 - Client Jesika is served
+2016-12-24 08:55:48 INFO  Client:19 - Client Dekstor visit the Restaurant.
+2016-12-24 08:55:48 INFO  Client:56 - Client Dekstor had chosen CashDesk#3
+2016-12-24 08:55:48 INFO  Client:56 - Client Dekstor had chosen CashDesk#2
+2016-12-24 08:55:48 INFO  CashDesk:37 - Client Dekstor is served
+2016-12-24 08:55:48 INFO  CashDesk:37 - Client Emma is served
+2016-12-24 08:55:48 INFO  CashDesk:37 - Client Vadim is served
+2016-12-24 08:57:10 INFO  Client:19 - Client Jesika visit the Restaurant.
+2016-12-24 08:57:10 INFO  Client:19 - Client Emma visit the Restaurant.
+2016-12-24 08:57:10 INFO  Client:19 - Client Vadim visit the Restaurant.
+2016-12-24 08:57:10 INFO  Client:56 - Client Emma had chosen CashDesk#4
+2016-12-24 08:57:10 INFO  Client:19 - Client Dekstor visit the Restaurant.
+2016-12-24 08:57:10 INFO  Client:56 - Client Dekstor had chosen CashDesk#1
+2016-12-24 08:57:10 INFO  Client:23 - Client Dekstormade pre order.
+2016-12-24 08:57:10 INFO  CashDesk:37 - Client Dekstor is served
+2016-12-24 08:57:10 INFO  Client:23 - Client Emmamade pre order.
+2016-12-24 08:57:10 INFO  Client:56 - Client Vadim had chosen CashDesk#3
+2016-12-24 08:57:10 INFO  Client:23 - Client Vadimmade pre order.
+2016-12-24 08:57:10 INFO  Client:56 - Client Jesika had chosen CashDesk#1
+2016-12-24 08:57:10 INFO  Client:23 - Client Jesikamade pre order.
+2016-12-24 08:57:10 INFO  CashDesk:37 - Client Vadim is served
+2016-12-24 08:57:10 INFO  CashDesk:37 - Client Jesika is served
+2016-12-24 08:57:10 INFO  CashDesk:37 - Client Emma is served
+2016-12-24 16:46:23 INFO  Client:21 - Client Emma visit the Restaurant.
+2016-12-24 16:46:23 INFO  Client:21 - Client Jesika visit the Restaurant.
+2016-12-24 16:46:23 INFO  Client:21 - Client Vadim visit the Restaurant.
+2016-12-24 16:46:23 INFO  Client:21 - Client Dekstor visit the Restaurant.
+2016-12-24 16:46:23 INFO  Client:59 - Client Vadim had chosen CashDesk#4
+2016-12-24 16:46:23 INFO  Client:59 - Client Emma had chosen CashDesk#3
+2016-12-24 16:46:23 INFO  Client:59 - Client Jesika had chosen CashDesk#4
+2016-12-24 16:46:23 INFO  Client:25 - Client Emma made pre order.
+2016-12-24 16:46:23 INFO  Client:25 - Client Vadim made pre order.
+2016-12-24 16:46:23 INFO  Client:59 - Client Dekstor had chosen CashDesk#3
+2016-12-24 16:46:23 INFO  Client:25 - Client Dekstor made pre order.
+2016-12-24 16:46:23 INFO  Client:25 - Client Jesika made pre order.
+2016-12-24 16:46:23 INFO  CashDesk:37 - Client Emma is served
+2016-12-24 16:46:23 INFO  CashDesk:37 - Client Vadim is served
+2016-12-24 16:46:23 INFO  CashDesk:37 - Client Dekstor is served
+2016-12-24 16:46:23 INFO  CashDesk:37 - Client Jesika is served
+2016-12-24 16:46:57 INFO  Client:22 - Client Dekstor visit the Restaurant.
+2016-12-24 16:46:57 INFO  Client:22 - Client Vadim visit the Restaurant.
+2016-12-24 16:46:57 INFO  Client:22 - Client Emma visit the Restaurant.
+2016-12-24 16:46:57 INFO  Client:60 - Client Vadim had chosen CashDesk#1
+2016-12-24 16:46:57 INFO  Client:22 - Client Jesika visit the Restaurant.
+2016-12-24 16:46:57 INFO  Client:26 - Client Vadim made pre order.
+2016-12-24 16:46:57 INFO  Client:60 - Client Emma had chosen CashDesk#2
+2016-12-24 16:46:57 INFO  Client:60 - Client Dekstor had chosen CashDesk#1
+2016-12-24 16:46:57 INFO  Client:26 - Client Emma made pre order.
+2016-12-24 16:46:57 INFO  CashDesk:37 - Client Vadim is served
+2016-12-24 16:46:57 INFO  Client:60 - Client Jesika had chosen CashDesk#1
+2016-12-24 16:46:57 INFO  CashDesk:37 - Client Emma is served
+2016-12-24 16:46:57 INFO  Client:26 - Client Dekstor made pre order.
+2016-12-24 16:46:57 INFO  Client:26 - Client Jesika made pre order.
+2016-12-24 16:46:57 INFO  CashDesk:37 - Client Jesika is served
+2016-12-24 16:46:57 INFO  CashDesk:37 - Client Dekstor is served
+2016-12-24 16:47:30 INFO  Client:21 - Client Jesika visit the Restaurant.
+2016-12-24 16:47:30 INFO  Client:21 - Client Vadim visit the Restaurant.
+2016-12-24 16:47:30 INFO  Client:21 - Client Dekstor visit the Restaurant.
+2016-12-24 16:47:30 INFO  Client:59 - Client Jesika had chosen CashDesk#2
+2016-12-24 16:47:30 INFO  Client:21 - Client Emma visit the Restaurant.
+2016-12-24 16:47:30 INFO  Client:59 - Client Emma had chosen CashDesk#4
+2016-12-24 16:47:30 INFO  Client:25 - Client Emma made pre order.
+2016-12-24 16:47:30 INFO  CashDesk:37 - Client Emma is served
+2016-12-24 16:47:30 INFO  Client:25 - Client Jesika made pre order.
+2016-12-24 16:47:30 INFO  CashDesk:37 - Client Jesika is served
+2016-12-24 16:47:30 INFO  Client:59 - Client Vadim had chosen CashDesk#1
+2016-12-24 16:47:30 INFO  Client:25 - Client Vadim made pre order.
+2016-12-24 16:47:30 INFO  CashDesk:37 - Client Vadim is served
+2016-12-24 16:47:30 INFO  Client:59 - Client Dekstor had chosen CashDesk#3
+2016-12-24 16:47:30 INFO  Client:25 - Client Dekstor made pre order.
+2016-12-24 16:47:30 INFO  CashDesk:37 - Client Dekstor is served
+2016-12-25 15:23:35 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:23:35 INFO  Client:26 - Client Marlin,Dimasik^^,David,Fuhrer visit the Restaurant.
+2016-12-25 15:23:35 INFO  Client:64 - Client Marlin,Dimasik^^,David,Fuhrer had chosen CashDesk#1
+2016-12-25 15:23:35 INFO  Client:30 - Client Marlin,Dimasik^^,David,Fuhrer made pre order.
+2016-12-25 15:23:35 INFO  CashDesk:31 - Client Marlin,Dimasik^^,David,Fuhrer is served
+2016-12-25 15:24:36 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:24:36 INFO  Client:26 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:24:36 INFO  Client:26 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:24:36 INFO  Client:26 - Client David visit the Restaurant.
+2016-12-25 15:24:36 INFO  Client:64 - Client David had chosen CashDesk#4
+2016-12-25 15:24:36 INFO  Client:26 - Client Marlin visit the Restaurant.
+2016-12-25 15:24:36 INFO  Client:64 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 15:24:36 INFO  Client:64 - Client Fuhrer had chosen CashDesk#4
+2016-12-25 15:24:36 INFO  Client:30 - Client Dimasik^^ made pre order.
+2016-12-25 15:24:36 INFO  Client:64 - Client Marlin had chosen CashDesk#2
+2016-12-25 15:24:36 INFO  Client:30 - Client David made pre order.
+2016-12-25 15:24:36 INFO  Client:30 - Client Marlin made pre order.
+2016-12-25 15:24:36 INFO  Client:30 - Client Fuhrer made pre order.
+2016-12-25 15:24:36 INFO  CashDesk:31 - Client Fuhrer is served
+2016-12-25 15:24:36 INFO  CashDesk:31 - Client Marlin is served
+2016-12-25 15:24:36 INFO  CashDesk:31 - Client Dimasik^^ is served
+2016-12-25 15:24:36 INFO  CashDesk:31 - Client David is served
+2016-12-25 15:24:45 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:24:45 INFO  Client:26 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:24:45 INFO  Client:64 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 15:24:45 INFO  Client:26 - Client David visit the Restaurant.
+2016-12-25 15:24:45 INFO  Client:26 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:24:45 INFO  Client:30 - Client Dimasik^^ made pre order.
+2016-12-25 15:24:45 INFO  Client:26 - Client Marlin visit the Restaurant.
+2016-12-25 15:24:45 INFO  Client:64 - Client Fuhrer had chosen CashDesk#1
+2016-12-25 15:24:45 INFO  Client:64 - Client David had chosen CashDesk#3
+2016-12-25 15:24:45 INFO  Client:30 - Client Fuhrer made pre order.
+2016-12-25 15:24:45 INFO  Client:64 - Client Marlin had chosen CashDesk#2
+2016-12-25 15:24:45 INFO  CashDesk:31 - Client Fuhrer is served
+2016-12-25 15:24:45 INFO  Client:30 - Client David made pre order.
+2016-12-25 15:24:45 INFO  CashDesk:31 - Client Dimasik^^ is served
+2016-12-25 15:24:45 INFO  CashDesk:31 - Client David is served
+2016-12-25 15:24:45 INFO  Client:30 - Client Marlin made pre order.
+2016-12-25 15:24:45 INFO  CashDesk:31 - Client Marlin is served
+2016-12-25 15:26:26 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:26:26 INFO  Client:27 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:26:26 INFO  Client:27 - Client David visit the Restaurant.
+2016-12-25 15:26:26 INFO  Client:27 - Client Marlin visit the Restaurant.
+2016-12-25 15:26:26 INFO  Client:27 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:26:26 INFO  Client:65 - Client Marlin had chosen CashDesk#1
+2016-12-25 15:26:26 INFO  Client:65 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 15:26:26 INFO  Client:65 - Client David had chosen CashDesk#3
+2016-12-25 15:26:26 INFO  Client:31 - Client Dimasik^^ made pre order.
+2016-12-25 15:26:26 INFO  Client:31 - Client Marlin made pre order.
+2016-12-25 15:26:26 INFO  Client:65 - Client Fuhrer had chosen CashDesk#4
+2016-12-25 15:26:26 INFO  Client:31 - Client David made pre order.
+2016-12-25 15:26:26 INFO  Client:31 - Client Fuhrer made pre order.
+2016-12-25 15:26:26 INFO  CashDesk:31 - Client Marlin is served
+2016-12-25 15:26:26 INFO  CashDesk:31 - Client Dimasik^^ is served
+2016-12-25 15:26:26 INFO  CashDesk:31 - Client David is served
+2016-12-25 15:26:26 INFO  CashDesk:31 - Client Fuhrer is served
+2016-12-25 15:26:44 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:27:06 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:27:06 INFO  Client:27 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:27:06 INFO  Client:27 - Client Marlin visit the Restaurant.
+2016-12-25 15:27:06 INFO  Client:27 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:27:06 INFO  Client:65 - Client Dimasik^^ had chosen CashDesk#2
+2016-12-25 15:27:06 INFO  Client:27 - Client David visit the Restaurant.
+2016-12-25 15:27:06 INFO  Client:31 - Client Dimasik^^ made pre order.
+2016-12-25 15:27:06 INFO  Client:65 - Client Fuhrer had chosen CashDesk#3
+2016-12-25 15:27:06 INFO  Client:65 - Client Marlin had chosen CashDesk#3
+2016-12-25 15:27:06 INFO  Client:31 - Client Fuhrer made pre order.
+2016-12-25 15:27:06 INFO  Client:65 - Client David had chosen CashDesk#3
+2016-12-25 15:27:06 INFO  Client:31 - Client David made pre order.
+2016-12-25 15:27:06 INFO  Client:31 - Client Marlin made pre order.
+2016-12-25 15:27:06 INFO  CashDesk:31 - Client David is served
+2016-12-25 15:27:06 INFO  CashDesk:31 - Client Fuhrer is served
+2016-12-25 15:27:06 INFO  CashDesk:31 - Client Dimasik^^ is served
+2016-12-25 15:27:06 INFO  CashDesk:31 - Client Marlin is served
+2016-12-25 15:28:19 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:28:19 INFO  Client:27 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:28:19 INFO  Client:27 - Client Marlin visit the Restaurant.
+2016-12-25 15:28:19 INFO  Client:27 - Client David visit the Restaurant.
+2016-12-25 15:28:19 INFO  Client:27 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:28:19 INFO  Client:65 - Client David had chosen CashDesk#2
+2016-12-25 15:28:19 INFO  Client:31 - Client David made pre order.
+2016-12-25 15:28:19 INFO  Client:65 - Client Marlin had chosen CashDesk#3
+2016-12-25 15:28:19 INFO  Client:31 - Client Marlin made pre order.
+2016-12-25 15:28:19 INFO  Client:65 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 15:28:19 INFO  Client:31 - Client Dimasik^^ made pre order.
+2016-12-25 15:28:19 INFO  CashDesk:31 - Client Dimasik^^ is served
+2016-12-25 15:28:19 INFO  Client:65 - Client Fuhrer had chosen CashDesk#2
+2016-12-25 15:28:19 INFO  Client:31 - Client Fuhrer made pre order.
+2016-12-25 15:28:19 INFO  CashDesk:31 - Client Fuhrer is served
+2016-12-25 15:28:19 INFO  CashDesk:31 - Client Marlin is served
+2016-12-25 15:28:19 INFO  CashDesk:31 - Client David is served
+2016-12-25 15:28:59 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:28:59 INFO  Client:27 - Client Marlin visit the Restaurant.
+2016-12-25 15:28:59 INFO  Client:27 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:28:59 INFO  Client:27 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:28:59 INFO  Client:27 - Client David visit the Restaurant.
+2016-12-25 15:28:59 INFO  Client:65 - Client Marlin had chosen CashDesk#1
+2016-12-25 15:28:59 INFO  Client:65 - Client Dimasik^^ had chosen CashDesk#2
+2016-12-25 15:28:59 INFO  Client:31 - Client Marlin made pre order.
+2016-12-25 15:28:59 INFO  Client:65 - Client David had chosen CashDesk#3
+2016-12-25 15:28:59 INFO  Client:31 - Client David made pre order.
+2016-12-25 15:28:59 INFO  Client:65 - Client Fuhrer had chosen CashDesk#2
+2016-12-25 15:28:59 INFO  Client:31 - Client Fuhrer made pre order.
+2016-12-25 15:28:59 INFO  Client:31 - Client Dimasik^^ made pre order.
+2016-12-25 15:28:59 INFO  CashDesk:31 - Client Fuhrer is served
+2016-12-25 15:28:59 INFO  CashDesk:31 - Client David is served
+2016-12-25 15:28:59 INFO  CashDesk:31 - Client Marlin is served
+2016-12-25 15:28:59 INFO  CashDesk:31 - Client Dimasik^^ is served
+2016-12-25 15:30:11 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:30:11 INFO  Client:27 - Client David visit the Restaurant.
+2016-12-25 15:30:11 INFO  Client:27 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:30:11 INFO  Client:68 - Client Dimasik^^ had chosen CashDesk#2
+2016-12-25 15:30:11 INFO  Client:31 - Client Dimasik^^ made pre order.
+2016-12-25 15:30:11 INFO  CashDesk:31 - Client Dimasik^^ is served
+2016-12-25 15:30:11 INFO  Client:68 - Client David had chosen CashDesk#2
+2016-12-25 15:30:11 INFO  Client:31 - Client David made pre order.
+2016-12-25 15:30:11 INFO  CashDesk:31 - Client David is served
+2016-12-25 15:30:11 INFO  Client:27 - Client Marlin visit the Restaurant.
+2016-12-25 15:30:11 INFO  Client:68 - Client Marlin had chosen CashDesk#2
+2016-12-25 15:30:11 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:30:11 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:30:11 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:30:11 INFO  Client:31 - Client Marlin made pre order.
+2016-12-25 15:30:11 INFO  CashDesk:31 - Client Marlin is served
+2016-12-25 15:30:12 INFO  Client:27 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:30:12 INFO  Client:68 - Client Fuhrer had chosen CashDesk#3
+2016-12-25 15:30:12 INFO  Client:31 - Client Fuhrer made pre order.
+2016-12-25 15:30:12 INFO  CashDesk:31 - Client Fuhrer is served
+2016-12-25 15:30:15 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:30:15 INFO  Client:27 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:30:15 INFO  Client:27 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:30:15 INFO  Client:27 - Client David visit the Restaurant.
+2016-12-25 15:30:15 INFO  Client:68 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 15:30:15 INFO  Client:31 - Client Dimasik^^ made pre order.
+2016-12-25 15:30:15 INFO  Client:68 - Client Fuhrer had chosen CashDesk#1
+2016-12-25 15:30:15 INFO  Client:31 - Client Fuhrer made pre order.
+2016-12-25 15:30:15 INFO  Client:68 - Client David had chosen CashDesk#2
+2016-12-25 15:30:15 INFO  Client:44 - Client David Stay in queue
+2016-12-25 15:30:15 INFO  Client:44 - Client David Stay in queue
+2016-12-25 15:30:15 INFO  CashDesk:31 - Client Dimasik^^ is served
+2016-12-25 15:30:15 INFO  Client:44 - Client David Stay in queue
+2016-12-25 15:30:15 INFO  CashDesk:31 - Client Fuhrer is served
+2016-12-25 15:30:15 INFO  Client:44 - Client David Stay in queue
+2016-12-25 15:30:15 INFO  Client:31 - Client David made pre order.
+2016-12-25 15:30:15 INFO  CashDesk:31 - Client David is served
+2016-12-25 15:30:15 INFO  Client:27 - Client Marlin visit the Restaurant.
+2016-12-25 15:30:15 INFO  Client:68 - Client Marlin had chosen CashDesk#2
+2016-12-25 15:30:15 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:30:15 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:30:15 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:30:15 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:30:15 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:30:15 INFO  Client:31 - Client Marlin made pre order.
+2016-12-25 15:30:15 INFO  CashDesk:31 - Client Marlin is served
+2016-12-25 15:31:58 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:31:58 INFO  Client:27 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:31:58 INFO  Client:27 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:31:58 INFO  Client:27 - Client David visit the Restaurant.
+2016-12-25 15:31:58 INFO  Client:68 - Client Fuhrer had chosen CashDesk#2
+2016-12-25 15:31:58 INFO  Client:68 - Client Dimasik^^ had chosen CashDesk#3
+2016-12-25 15:31:58 INFO  Client:31 - Client Fuhrer made pre order.
+2016-12-25 15:31:58 INFO  Client:27 - Client Marlin visit the Restaurant.
+2016-12-25 15:31:58 INFO  Client:68 - Client David had chosen CashDesk#2
+2016-12-25 15:31:58 INFO  Client:68 - Client Marlin had chosen CashDesk#1
+2016-12-25 15:31:58 INFO  Client:31 - Client Dimasik^^ made pre order.
+2016-12-25 15:31:58 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-25 15:31:58 INFO  Client:31 - Client Marlin made pre order.
+2016-12-25 15:31:58 INFO  Client:44 - Client David Stay in queue
+2016-12-25 15:31:58 INFO  CashDesk:32 - Client Marlin is served
+2016-12-25 15:31:58 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-25 15:31:58 INFO  Client:31 - Client David made pre order.
+2016-12-25 15:31:58 INFO  CashDesk:32 - Client David is served
+2016-12-25 15:32:55 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:32:55 INFO  Client:27 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:32:55 INFO  Client:27 - Client David visit the Restaurant.
+2016-12-25 15:32:55 INFO  Client:68 - Client Dimasik^^ had chosen CashDesk#2
+2016-12-25 15:32:55 INFO  Client:27 - Client Marlin visit the Restaurant.
+2016-12-25 15:32:55 INFO  Client:68 - Client Marlin had chosen CashDesk#1
+2016-12-25 15:32:55 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:32:55 INFO  Client:68 - Client David had chosen CashDesk#3
+2016-12-25 15:32:55 INFO  Client:31 - Client Marlin made pre order.
+2016-12-25 15:32:55 INFO  Client:27 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:32:55 INFO  Client:68 - Client Fuhrer had chosen CashDesk#3
+2016-12-25 15:32:55 INFO  Client:31 - Client Fuhrer made pre order.
+2016-12-25 15:32:55 INFO  Client:31 - Client Dimasik^^ made pre order.
+2016-12-25 15:32:55 INFO  Client:31 - Client David made pre order.
+2016-12-25 15:32:55 INFO  CashDesk:32 - Client David is served
+2016-12-25 15:32:55 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-25 15:32:55 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-25 15:32:55 INFO  CashDesk:32 - Client Marlin is served
+2016-12-25 15:33:00 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:33:00 INFO  Client:27 - Client Marlin visit the Restaurant.
+2016-12-25 15:33:00 INFO  Client:27 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:33:00 INFO  Client:27 - Client David visit the Restaurant.
+2016-12-25 15:33:00 INFO  Client:68 - Client David had chosen CashDesk#3
+2016-12-25 15:33:00 INFO  Client:27 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:33:00 INFO  Client:31 - Client David made pre order.
+2016-12-25 15:33:00 INFO  Client:68 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 15:33:00 INFO  Client:68 - Client Marlin had chosen CashDesk#2
+2016-12-25 15:33:00 INFO  Client:31 - Client Dimasik^^ made pre order.
+2016-12-25 15:33:00 INFO  Client:68 - Client Fuhrer had chosen CashDesk#2
+2016-12-25 15:33:00 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-25 15:33:00 INFO  CashDesk:32 - Client David is served
+2016-12-25 15:33:00 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:33:00 INFO  Client:44 - Client Fuhrer Stay in queue
+2016-12-25 15:33:00 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:33:00 INFO  Client:44 - Client Fuhrer Stay in queue
+2016-12-25 15:33:00 INFO  Client:44 - Client Marlin Stay in queue
+2016-12-25 15:33:00 INFO  Client:44 - Client Fuhrer Stay in queue
+2016-12-25 15:33:00 INFO  Client:31 - Client Marlin made pre order.
+2016-12-25 15:33:00 INFO  Client:31 - Client Fuhrer made pre order.
+2016-12-25 15:33:00 INFO  CashDesk:32 - Client Marlin is served
+2016-12-25 15:33:00 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-25 15:34:21 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:34:21 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-25 15:34:21 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:34:21 INFO  Client:66 - Client Fuhrer had chosen CashDesk#3
+2016-12-25 15:34:21 INFO  Client:41 - Client Fuhrer Stay in queue
+2016-12-25 15:34:21 INFO  Client:66 - Client Marlin had chosen CashDesk#1
+2016-12-25 15:34:21 INFO  Client:72 - Client Fuhrer had change CashDesk#3
+2016-12-25 15:34:21 INFO  Client:24 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:34:21 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-25 15:34:21 INFO  Client:66 - Client Dimasik^^ had chosen CashDesk#3
+2016-12-25 15:34:21 INFO  Client:41 - Client Fuhrer Stay in queue
+2016-12-25 15:34:21 INFO  Client:28 - Client Marlin made pre order.
+2016-12-25 15:34:21 INFO  Client:72 - Client Fuhrer had change CashDesk#3
+2016-12-25 15:34:21 INFO  Client:41 - Client Dimasik^^ Stay in queue
+2016-12-25 15:34:21 INFO  Client:66 - Client David had chosen CashDesk#2
+2016-12-25 15:34:21 INFO  Client:72 - Client Dimasik^^ had change CashDesk#3
+2016-12-25 15:34:21 INFO  Client:41 - Client Fuhrer Stay in queue
+2016-12-25 15:34:21 INFO  Client:28 - Client Dimasik^^ made pre order.
+2016-12-25 15:34:21 INFO  CashDesk:32 - Client Marlin is served
+2016-12-25 15:34:21 INFO  Client:28 - Client David made pre order.
+2016-12-25 15:34:21 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-25 15:34:21 INFO  Client:72 - Client Fuhrer had change CashDesk#3
+2016-12-25 15:34:21 INFO  CashDesk:32 - Client David is served
+2016-12-25 15:34:21 INFO  Client:28 - Client Fuhrer made pre order.
+2016-12-25 15:34:21 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-25 15:34:34 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:34:34 INFO  Client:24 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:34:34 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-25 15:34:34 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-25 15:34:34 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:34:34 INFO  Client:66 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 15:34:34 INFO  Client:66 - Client David had chosen CashDesk#2
+2016-12-25 15:34:34 INFO  Client:28 - Client Dimasik^^ made pre order.
+2016-12-25 15:34:34 INFO  Client:66 - Client Fuhrer had chosen CashDesk#2
+2016-12-25 15:34:34 INFO  Client:66 - Client Marlin had chosen CashDesk#1
+2016-12-25 15:34:34 INFO  Client:41 - Client Fuhrer Stay in queue
+2016-12-25 15:34:34 INFO  Client:72 - Client Fuhrer had change CashDesk#2
+2016-12-25 15:34:34 INFO  Client:28 - Client David made pre order.
+2016-12-25 15:34:34 INFO  Client:28 - Client Fuhrer made pre order.
+2016-12-25 15:34:34 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-25 15:34:34 INFO  Client:41 - Client Marlin Stay in queue
+2016-12-25 15:34:34 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-25 15:34:34 INFO  CashDesk:32 - Client David is served
+2016-12-25 15:34:34 INFO  Client:72 - Client Marlin had change CashDesk#1
+2016-12-25 15:34:34 INFO  Client:41 - Client Marlin Stay in queue
+2016-12-25 15:34:34 INFO  Client:72 - Client Marlin had change CashDesk#1
+2016-12-25 15:34:34 INFO  Client:28 - Client Marlin made pre order.
+2016-12-25 15:34:34 INFO  CashDesk:32 - Client Marlin is served
+2016-12-25 15:35:30 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 15:35:30 INFO  Client:24 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 15:35:30 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-25 15:35:30 INFO  Client:66 - Client David had chosen CashDesk#3
+2016-12-25 15:35:30 INFO  Client:66 - Client Dimasik^^ had chosen CashDesk#2
+2016-12-25 15:35:30 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-25 15:35:30 INFO  Client:66 - Client Fuhrer had chosen CashDesk#1
+2016-12-25 15:35:30 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-25 15:35:30 INFO  Client:28 - Client David made pre order.
+2016-12-25 15:35:30 INFO  Client:66 - Client Marlin had chosen CashDesk#1
+2016-12-25 15:35:30 INFO  Client:41 - Client Fuhrer Stay in queue
+2016-12-25 15:35:30 INFO  Client:28 - Client Dimasik^^ made pre order.
+2016-12-25 15:35:30 INFO  Client:73 - Client Fuhrer had change CashDesk#2
+2016-12-25 15:35:30 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-25 15:35:30 INFO  Client:41 - Client Marlin Stay in queue
+2016-12-25 15:35:30 INFO  Client:41 - Client Fuhrer Stay in queue
+2016-12-25 15:35:30 INFO  CashDesk:32 - Client David is served
+2016-12-25 15:35:30 INFO  Client:41 - Client Fuhrer Stay in queue
+2016-12-25 15:35:30 INFO  Client:73 - Client Marlin had change CashDesk#2
+2016-12-25 15:35:30 INFO  Client:41 - Client Marlin Stay in queue
+2016-12-25 15:35:30 INFO  Client:41 - Client Fuhrer Stay in queue
+2016-12-25 15:35:30 INFO  Client:28 - Client Marlin made pre order.
+2016-12-25 15:35:30 INFO  Client:28 - Client Fuhrer made pre order.
+2016-12-25 15:35:30 INFO  CashDesk:32 - Client Marlin is served
+2016-12-25 15:35:30 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-25 18:23:04 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 18:23:04 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-25 18:23:04 INFO  Client:24 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 18:23:04 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-25 18:23:04 INFO  Client:50 - Client David had chosen CashDesk#2
+2016-12-25 18:23:04 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-25 18:23:04 INFO  Client:50 - Client Fuhrer had chosen CashDesk#3
+2016-12-25 18:23:04 INFO  Client:50 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 18:23:04 INFO  Client:50 - Client Marlin had chosen CashDesk#3
+2016-12-25 18:37:33 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 18:39:13 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 18:39:13 INFO  Client:23 - Client David visit the Restaurant.
+2016-12-25 18:39:13 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2016-12-25 18:39:13 INFO  Client:49 - Client David had chosen CashDesk#3
+2016-12-25 18:39:13 INFO  Client:49 - Client Fuhrer had chosen CashDesk#2
+2016-12-25 18:39:13 INFO  Client:23 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 18:39:13 INFO  Client:23 - Client Marlin visit the Restaurant.
+2016-12-25 18:39:13 INFO  Client:49 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 18:39:13 INFO  Client:49 - Client Marlin had chosen CashDesk#2
+2016-12-25 18:39:13 INFO  CashDesk:44 - Client Fuhrer is served
+2016-12-25 18:39:13 INFO  CashDesk:44 - Client David is served
+2016-12-25 18:39:13 INFO  CashDesk:44 - Client Marlin is served
+2016-12-25 18:39:13 INFO  CashDesk:44 - Client Dimasik^^ is served
+2016-12-25 19:35:32 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 19:35:32 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2016-12-25 19:35:32 INFO  Client:50 - Client Fuhrer had chosen CashDesk#1
+2016-12-25 19:35:32 INFO  Client:23 - Client Marlin visit the Restaurant.
+2016-12-25 19:35:32 INFO  Client:50 - Client Marlin had chosen CashDesk#3
+2016-12-25 19:35:32 INFO  Client:23 - Client David visit the Restaurant.
+2016-12-25 19:35:32 INFO  Client:50 - Client David had chosen CashDesk#2
+2016-12-25 19:35:32 INFO  Client:23 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 19:35:32 INFO  Client:50 - Client Dimasik^^ had chosen CashDesk#3
+2016-12-25 19:36:18 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 19:36:18 INFO  Client:23 - Client Marlin visit the Restaurant.
+2016-12-25 19:36:18 INFO  Client:50 - Client Marlin had chosen CashDesk#1
+2016-12-25 19:36:19 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2016-12-25 19:36:19 INFO  Client:23 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 19:36:19 INFO  Client:23 - Client David visit the Restaurant.
+2016-12-25 19:36:19 INFO  Client:50 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 19:36:19 INFO  Client:50 - Client Fuhrer had chosen CashDesk#3
+2016-12-25 19:36:19 INFO  Client:50 - Client David had chosen CashDesk#1
+2016-12-25 19:37:15 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 19:37:16 INFO  Client:23 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 19:37:16 INFO  Client:23 - Client Marlin visit the Restaurant.
+2016-12-25 19:37:16 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2016-12-25 19:37:16 INFO  Client:23 - Client David visit the Restaurant.
+2016-12-25 19:37:16 INFO  Client:50 - Client Marlin had chosen CashDesk#2
+2016-12-25 19:37:16 INFO  Client:50 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-25 19:37:16 INFO  Client:50 - Client Fuhrer had chosen CashDesk#1
+2016-12-25 19:37:16 INFO  Client:50 - Client David had chosen CashDesk#3
+2016-12-25 19:37:17 INFO  CashDesk:51 - Client Marlin is served
+2016-12-25 19:37:17 INFO  CashDesk:51 - Client David is served
+2016-12-25 19:39:02 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 19:39:03 INFO  Client:23 - Client David visit the Restaurant.
+2016-12-25 19:39:03 INFO  Client:23 - Client Marlin visit the Restaurant.
+2016-12-25 19:39:03 INFO  Client:23 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 19:39:03 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2016-12-25 19:39:03 INFO  Client:50 - Client Fuhrer had chosen CashDesk#3
+2016-12-25 19:39:03 INFO  Client:50 - Client Marlin had chosen CashDesk#3
+2016-12-25 19:39:03 INFO  Client:50 - Client Dimasik^^ had chosen CashDesk#3
+2016-12-25 19:39:03 INFO  Client:50 - Client David had chosen CashDesk#3
+2016-12-25 19:39:04 INFO  CashDesk:51 - Client David is served
+2016-12-25 19:44:20 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-25 19:44:20 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2016-12-25 19:44:20 INFO  Client:23 - Client Marlin visit the Restaurant.
+2016-12-25 19:44:20 INFO  Client:23 - Client Dimasik^^ visit the Restaurant.
+2016-12-25 19:44:20 INFO  Client:23 - Client David visit the Restaurant.
+2016-12-25 19:44:20 INFO  Client:48 - Client Dimasik^^ had chosen CashDesk#3
+2016-12-25 19:44:20 INFO  Client:48 - Client Fuhrer had chosen CashDesk#1
+2016-12-25 19:44:20 INFO  Client:48 - Client Marlin had chosen CashDesk#1
+2016-12-25 19:44:20 INFO  Client:48 - Client David had chosen CashDesk#1
+2016-12-25 19:44:21 INFO  CashDesk:51 - Client Marlin is served
+2016-12-26 03:01:15 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:01:15 INFO  Client:23 - Client David visit the Restaurant.
+2016-12-26 03:01:15 INFO  Client:23 - Client Dimasik^^ visit the Restaurant.
+2016-12-26 03:01:15 INFO  Client:48 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-26 03:01:15 INFO  Client:48 - Client David had chosen CashDesk#1
+2016-12-26 03:01:15 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:01:15 INFO  Client:48 - Client Fuhrer had chosen CashDesk#1
+2016-12-26 03:01:15 INFO  Client:23 - Client Marlin visit the Restaurant.
+2016-12-26 03:01:15 INFO  Client:48 - Client Marlin had chosen CashDesk#3
+2016-12-26 03:10:49 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:10:49 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:10:49 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:10:49 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:10:49 INFO  Client:28 - Client Dimasik^^ visit the Restaurant.
+2016-12-26 03:10:49 INFO  Client:64 - Client Marlin had chosen CashDesk#2
+2016-12-26 03:10:49 INFO  Client:64 - Client David had chosen CashDesk#1
+2016-12-26 03:10:49 INFO  Client:64 - Client Fuhrer had chosen CashDesk#3
+2016-12-26 03:10:49 INFO  Client:64 - Client Dimasik^^ had chosen CashDesk#3
+2016-12-26 03:10:49 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-26 03:10:49 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:10:49 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:10:49 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:11:46 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:11:46 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:11:46 INFO  Client:63 - Client David had chosen CashDesk#3
+2016-12-26 03:11:46 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:11:46 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:11:46 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:11:46 INFO  Client:63 - Client Fuhrer had chosen CashDesk#3
+2016-12-26 03:11:46 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:11:46 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:11:46 INFO  Client:63 - Client Marlin had chosen CashDesk#2
+2016-12-26 03:11:46 INFO  Client:28 - Client Dimasik^^ visit the Restaurant.
+2016-12-26 03:11:46 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:11:46 INFO  Client:63 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-26 03:11:46 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-26 03:11:46 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-26 03:12:09 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:12:09 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:12:09 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:12:09 INFO  Client:28 - Client Dimasik^^ visit the Restaurant.
+2016-12-26 03:12:09 INFO  Client:63 - Client David had chosen CashDesk#1
+2016-12-26 03:12:09 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:12:09 INFO  Client:63 - Client Fuhrer had chosen CashDesk#2
+2016-12-26 03:12:09 INFO  Client:63 - Client Dimasik^^ had chosen CashDesk#1
+2016-12-26 03:12:09 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:12:09 INFO  Client:63 - Client Marlin had chosen CashDesk#3
+2016-12-26 03:12:09 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:12:09 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:12:09 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-26 03:12:09 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:12:52 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:12:52 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:12:52 INFO  Client:28 - Client Dimasik^^ visit the Restaurant.
+2016-12-26 03:12:52 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:12:52 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:12:52 INFO  Client:66 - Client Marlin had chosen CashDesk#1
+2016-12-26 03:12:52 INFO  Client:66 - Client David had chosen CashDesk#1
+2016-12-26 03:12:52 INFO  Client:66 - Client Dimasik^^ had chosen CashDesk#2
+2016-12-26 03:12:52 INFO  Client:66 - Client Fuhrer had chosen CashDesk#2
+2016-12-26 03:12:52 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:12:52 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-26 03:12:52 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:12:52 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:12:52 INFO  CashDesk:32 - Client Dimasik^^ is served
+2016-12-26 03:13:19 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:13:19 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:13:19 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:13:19 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:13:19 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:13:19 INFO  Client:66 - Client Client had chosen CashDesk#2
+2016-12-26 03:13:19 INFO  Client:66 - Client David had chosen CashDesk#1
+2016-12-26 03:13:19 INFO  Client:66 - Client Fuhrer had chosen CashDesk#1
+2016-12-26 03:13:19 INFO  Client:66 - Client Marlin had chosen CashDesk#2
+2016-12-26 03:13:19 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:13:19 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:13:19 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:13:19 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:13:19 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:13:19 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:14:49 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:14:49 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:14:49 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:14:49 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:14:49 INFO  Client:67 - Client Client had chosen CashDesk#2
+2016-12-26 03:14:49 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:14:49 INFO  Client:67 - Client Fuhrer had chosen CashDesk#3
+2016-12-26 03:14:49 INFO  Client:67 - Client David had chosen CashDesk#1
+2016-12-26 03:14:49 INFO  Client:67 - Client Marlin had chosen CashDesk#1
+2016-12-26 03:14:49 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:14:49 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:14:49 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:14:49 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:14:49 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:14:49 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:16:41 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:16:41 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:16:41 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:16:41 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:16:41 INFO  Client:68 - Client Marlin had chosen CashDesk#2
+2016-12-26 03:16:41 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:16:41 INFO  Client:68 - Client Fuhrer had chosen CashDesk#3
+2016-12-26 03:16:41 INFO  Client:68 - Client David had chosen CashDesk#3
+2016-12-26 03:16:41 INFO  Client:68 - Client Client had chosen CashDesk#2
+2016-12-26 03:16:41 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:16:41 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:16:41 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:16:41 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:16:41 INFO  Client:58 - Client Client made pre order
+2016-12-26 03:16:41 INFO  Client:58 - Client Marlin made pre order
+2016-12-26 03:16:41 INFO  Client:58 - Client Fuhrer made pre order
+2016-12-26 03:16:41 INFO  Client:58 - Client David made pre order
+2016-12-26 03:17:04 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:17:04 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:17:04 INFO  Client:68 - Client David had chosen CashDesk#1
+2016-12-26 03:17:04 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:17:04 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:17:04 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:17:04 INFO  Client:68 - Client Marlin had chosen CashDesk#1
+2016-12-26 03:17:04 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:17:04 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:17:04 INFO  Client:58 - Client David made order
+2016-12-26 03:17:04 INFO  Client:68 - Client Client had chosen CashDesk#2
+2016-12-26 03:17:04 INFO  Client:58 - Client Marlin made order
+2016-12-26 03:17:04 INFO  Client:68 - Client Fuhrer had chosen CashDesk#2
+2016-12-26 03:17:04 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:17:04 INFO  Client:58 - Client Fuhrer made order
+2016-12-26 03:17:04 INFO  Client:58 - Client Client made order
+2016-12-26 03:20:36 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:20:36 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:20:36 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:20:36 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:20:36 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:20:36 INFO  Client:68 - Client Marlin had chosen CashDesk#2
+2016-12-26 03:20:36 INFO  Client:68 - Client David had chosen CashDesk#2
+2016-12-26 03:20:36 INFO  Client:68 - Client Client had chosen CashDesk#2
+2016-12-26 03:20:36 INFO  Client:58 - Client David made order
+2016-12-26 03:20:36 INFO  Client:58 - Client Marlin made order
+2016-12-26 03:20:36 INFO  Client:68 - Client Fuhrer had chosen CashDesk#2
+2016-12-26 03:20:36 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:20:36 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:20:36 INFO  Client:58 - Client David made order
+2016-12-26 03:20:36 INFO  Client:58 - Client Fuhrer made order
+2016-12-26 03:20:36 INFO  Client:58 - Client Client made order
+2016-12-26 03:21:36 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:22:36 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:24:36 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:25:17 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:25:17 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:25:17 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:25:17 INFO  Client:68 - Client Client had chosen CashDesk#1
+2016-12-26 03:25:17 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:25:17 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:25:17 INFO  Client:68 - Client Fuhrer had chosen CashDesk#3
+2016-12-26 03:25:17 INFO  Client:68 - Client Marlin had chosen CashDesk#2
+2016-12-26 03:25:17 INFO  Client:68 - Client David had chosen CashDesk#3
+2016-12-26 03:25:17 INFO  Client:58 - Client David made order
+2016-12-26 03:25:17 INFO  Client:58 - Client Client made order
+2016-12-26 03:25:17 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:25:17 INFO  Client:33 - Client Fuhrer made pre order
+2016-12-26 03:25:17 INFO  Client:58 - Client Marlin made order
+2016-12-26 03:25:17 INFO  Client:58 - Client Fuhrer made order
+2016-12-26 03:26:17 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:28:08 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:28:08 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:28:08 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:28:08 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:28:08 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:28:08 INFO  Client:72 - Client David had chosen CashDesk#3
+2016-12-26 03:28:08 INFO  Client:72 - Client Marlin had chosen CashDesk#3
+2016-12-26 03:28:08 INFO  Client:72 - Client Fuhrer had chosen CashDesk#1
+2016-12-26 03:28:08 INFO  Client:62 - Client Fuhrer made order
+2016-12-26 03:28:08 INFO  Client:72 - Client Client had chosen CashDesk#1
+2016-12-26 03:28:08 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:28:08 INFO  Client:62 - Client Marlin made order
+2016-12-26 03:28:08 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:28:08 INFO  CashDesk:32 - Client David is served
+2016-12-26 03:28:08 INFO  Client:34 - Client David made pre order
+2016-12-26 03:28:08 INFO  Client:62 - Client Client made order
+2016-12-26 03:28:23 INFO  CashDesk:32 - Client Client is served
+2016-12-26 03:29:08 INFO  CashDesk:32 - Client Fuhrer is served
+2016-12-26 03:29:15 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:29:15 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:29:15 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:29:15 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:29:15 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:29:15 INFO  Client:72 - Client David had chosen CashDesk#1
+2016-12-26 03:29:15 INFO  Client:72 - Client Marlin had chosen CashDesk#1
+2016-12-26 03:29:15 INFO  Client:62 - Client Marlin made order
+2016-12-26 03:29:15 INFO  Client:72 - Client Client had chosen CashDesk#1
+2016-12-26 03:29:15 INFO  CashDesk:33 - Client David is served
+2016-12-26 03:29:15 INFO  Client:72 - Client Fuhrer had chosen CashDesk#2
+2016-12-26 03:29:15 INFO  CashDesk:33 - Client David is served
+2016-12-26 03:29:15 INFO  CashDesk:33 - Client Fuhrer is served
+2016-12-26 03:29:15 INFO  Client:34 - Client David made pre order
+2016-12-26 03:29:15 INFO  CashDesk:33 - Client Fuhrer is served
+2016-12-26 03:29:15 INFO  Client:34 - Client Fuhrer made pre order
+2016-12-26 03:31:02 INFO  CashDesk:32 - Client Marlin is served
+2016-12-26 03:31:11 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:31:11 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:31:11 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:31:11 INFO  Client:72 - Client Marlin had chosen CashDesk#3
+2016-12-26 03:31:11 INFO  Client:62 - Client Marlin made order
+2016-12-26 03:31:11 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:31:11 INFO  Client:72 - Client David had chosen CashDesk#3
+2016-12-26 03:31:11 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:31:11 INFO  Client:62 - Client David made order
+2016-12-26 03:31:11 INFO  Client:72 - Client Fuhrer had chosen CashDesk#3
+2016-12-26 03:31:11 INFO  Client:72 - Client Client had chosen CashDesk#3
+2016-12-26 03:31:11 INFO  Client:62 - Client Fuhrer made order
+2016-12-26 03:31:11 INFO  Client:62 - Client Client made order
+2016-12-26 03:31:25 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 03:31:25 INFO  Client:28 - Client Marlin visit the Restaurant.
+2016-12-26 03:31:25 INFO  Client:28 - Client Fuhrer visit the Restaurant.
+2016-12-26 03:31:25 INFO  Client:28 - Client David visit the Restaurant.
+2016-12-26 03:31:25 INFO  Client:28 - Client Client visit the Restaurant.
+2016-12-26 03:31:25 INFO  Client:72 - Client Marlin had chosen CashDesk#2
+2016-12-26 03:31:25 INFO  Client:72 - Client Fuhrer had chosen CashDesk#2
+2016-12-26 03:31:25 INFO  Client:72 - Client David had chosen CashDesk#3
+2016-12-26 03:31:25 INFO  Client:62 - Client Fuhrer made order
+2016-12-26 03:31:25 INFO  Client:62 - Client Marlin made order
+2016-12-26 03:31:25 INFO  Client:72 - Client Client had chosen CashDesk#2
+2016-12-26 03:31:25 INFO  Client:62 - Client David made order
+2016-12-26 03:31:25 INFO  Client:62 - Client Client made order
+2016-12-26 04:18:22 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 04:18:22 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-26 04:18:22 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-26 04:18:22 INFO  Client:24 - Client Client visit the Restaurant.
+2016-12-26 04:18:22 INFO  Client:68 - Client Fuhrer had chosen CashDesk#2
+2016-12-26 04:18:22 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-26 04:18:22 INFO  Client:68 - Client David had chosen CashDesk#1
+2016-12-26 04:18:22 INFO  Client:68 - Client Marlin had chosen CashDesk#3
+2016-12-26 04:18:22 INFO  Client:68 - Client Client had chosen CashDesk#3
+2016-12-26 04:18:22 INFO  Client:58 - Client Fuhrer made order
+2016-12-26 04:18:22 INFO  Client:58 - Client Client made order
+2016-12-26 04:18:22 INFO  Client:58 - Client Marlin made order
+2016-12-26 04:18:22 INFO  Client:58 - Client David made order
+2016-12-26 04:19:52 INFO  CashDesk:33 - Client Client is served
+2016-12-26 04:19:52 INFO  Client:29 - Client Client made pre order
+2016-12-26 04:21:22 INFO  CashDesk:33 - Client Client is served
+2016-12-26 04:21:22 INFO  Client:58 - Client Client made order
+2016-12-26 04:22:22 INFO  CashDesk:33 - Client Fuhrer is served
+2016-12-26 04:22:22 INFO  CashDesk:33 - Client David is served
+2016-12-26 04:22:22 INFO  Client:29 - Client David made pre order
+2016-12-26 04:26:22 INFO  CashDesk:33 - Client David is served
+2016-12-26 04:28:52 INFO  CashDesk:33 - Client Marlin is served
+2016-12-26 04:28:52 INFO  Client:29 - Client Marlin made pre order
+2016-12-26 04:31:52 INFO  CashDesk:33 - Client Marlin is served
+2016-12-26 04:39:22 INFO  CashDesk:33 - Client Marlin is served
+2016-12-26 04:45:03 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 04:45:03 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-26 04:45:03 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-26 04:45:03 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-26 04:45:03 INFO  Client:24 - Client Client visit the Restaurant.
+2016-12-26 04:45:03 INFO  Client:70 - Client David had chosen CashDesk#3
+2016-12-26 04:45:03 INFO  Client:70 - Client Marlin had chosen CashDesk#3
+2016-12-26 04:45:03 INFO  Client:70 - Client Fuhrer had chosen CashDesk#2
+2016-12-26 04:45:03 INFO  Client:70 - Client Client had chosen CashDesk#2
+2016-12-26 04:45:03 INFO  Client:60 - Client David made order
+2016-12-26 04:45:03 INFO  Client:60 - Client Marlin made order
+2016-12-26 04:45:03 INFO  Client:60 - Client Fuhrer made order
+2016-12-26 04:45:03 INFO  Client:60 - Client Client made order
+2016-12-26 04:45:48 INFO  CashDesk:33 - Client Fuhrer is served
+2016-12-26 04:45:48 INFO  CashDesk:33 - Client Fuhrer is served
+2016-12-26 04:45:48 INFO  Client:60 - Client Client made order
+2016-12-26 04:45:48 INFO  Client:29 - Client Fuhrer made pre order
+2016-12-26 04:46:33 INFO  CashDesk:33 - Client Fuhrer is served
+2016-12-26 04:47:33 INFO  CashDesk:33 - Client David is served
+2016-12-26 04:47:33 INFO  Client:29 - Client David made pre order
+2016-12-26 05:02:29 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 05:02:29 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-26 05:02:29 INFO  Client:24 - Client Client visit the Restaurant.
+2016-12-26 05:02:29 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-26 05:02:29 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-26 05:02:29 INFO  Client:68 - Client Client had chosen CashDesk#1
+2016-12-26 05:02:29 INFO  Client:68 - Client Marlin had chosen CashDesk#2
+2016-12-26 05:02:29 INFO  Client:68 - Client Fuhrer had chosen CashDesk#3
+2016-12-26 05:02:29 INFO  Client:68 - Client David had chosen CashDesk#3
+2016-12-26 05:02:30 INFO  Client:58 - Client Client made order
+2016-12-26 05:02:30 INFO  Client:58 - Client David made order
+2016-12-26 05:02:30 INFO  Client:58 - Client Marlin made order
+2016-12-26 05:02:30 INFO  Client:58 - Client Fuhrer made order
+2016-12-26 05:03:18 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 05:03:18 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-26 05:03:18 INFO  Client:24 - Client Client visit the Restaurant.
+2016-12-26 05:03:18 INFO  Client:68 - Client Marlin had chosen CashDesk#3
+2016-12-26 05:03:18 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-26 05:03:18 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-26 05:03:18 INFO  Client:68 - Client Client had chosen CashDesk#1
+2016-12-26 05:03:18 INFO  Client:68 - Client David had chosen CashDesk#3
+2016-12-26 05:03:18 INFO  Client:68 - Client Fuhrer had chosen CashDesk#3
+2016-12-26 05:03:18 INFO  Client:58 - Client Marlin made order
+2016-12-26 05:03:18 INFO  Client:58 - Client Fuhrer made order
+2016-12-26 05:03:18 INFO  Client:58 - Client David made order
+2016-12-26 05:03:18 INFO  Client:58 - Client Client made order
+2016-12-26 05:03:18 INFO  CashDesk:34 - Client Marlin is served
+2016-12-26 05:03:18 INFO  Client:58 - Client Marlin made order
+2016-12-26 05:03:18 INFO  CashDesk:34 - Client Client is served
+2016-12-26 05:03:18 INFO  CashDesk:34 - Client David is served
+2016-12-26 05:03:18 INFO  Client:29 - Client David made pre order
+2016-12-26 05:03:19 INFO  CashDesk:34 - Client Fuhrer is served
+2016-12-26 05:04:04 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 05:04:04 INFO  Client:24 - Client Client visit the Restaurant.
+2016-12-26 05:04:04 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-26 05:04:04 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-26 05:04:04 INFO  Client:68 - Client Client had chosen CashDesk#2
+2016-12-26 05:04:04 INFO  Client:68 - Client David had chosen CashDesk#2
+2016-12-26 05:04:04 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-26 05:04:04 INFO  Client:68 - Client Marlin had chosen CashDesk#2
+2016-12-26 05:04:04 INFO  Client:68 - Client Fuhrer had chosen CashDesk#3
+2016-12-26 05:04:04 INFO  Client:58 - Client Client made order
+2016-12-26 05:04:04 INFO  Client:58 - Client David made order
+2016-12-26 05:04:04 INFO  Client:58 - Client Marlin made order
+2016-12-26 05:04:04 INFO  Client:58 - Client Fuhrer made order
+2016-12-26 05:04:04 INFO  CashDesk:34 - Client Fuhrer is served
+2016-12-26 05:04:04 INFO  CashDesk:34 - Client David is served
+2016-12-26 05:04:04 INFO  Client:29 - Client David made pre order
+2016-12-26 05:04:04 INFO  CashDesk:34 - Client David is served
+2016-12-26 05:04:04 INFO  Client:58 - Client Marlin made order
+2016-12-26 05:04:04 INFO  Client:58 - Client David made order
+2016-12-26 05:04:04 INFO  CashDesk:34 - Client Marlin is served
+2016-12-26 05:04:04 INFO  CashDesk:34 - Client Client is served
+2016-12-26 05:04:04 INFO  Client:29 - Client Client made pre order
+2016-12-26 05:37:10 INFO  TxtFileReader:20 - File src/main/resources/data.txt successfully read.
+2016-12-26 05:37:10 INFO  Client:24 - Client David visit the Restaurant.
+2016-12-26 05:37:10 INFO  Client:24 - Client Fuhrer visit the Restaurant.
+2016-12-26 05:37:10 INFO  Client:24 - Client Marlin visit the Restaurant.
+2016-12-26 05:37:10 INFO  Client:24 - Client Client visit the Restaurant.
+2016-12-30 08:10:49 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:11:06 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:11:17 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:11:20 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:11:46 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:12:19 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:12:19 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:12:19 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:12:19 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:12:19 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:12:19 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:13:31 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:13:31 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:13:31 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:13:31 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:13:31 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:13:31 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client3 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client5 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client6 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client7 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client9 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client4 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:24 - Client Client8 visit the Restaurant.
+2016-12-30 08:13:31 INFO  Client:47 - Client Client0 had chosen CashDesk#0
+2016-12-30 08:13:31 INFO  Client:41 - Client Client0 made order
+2016-12-30 08:13:31 INFO  Client:47 - Client Client8 had chosen CashDesk#22
+2016-12-30 08:13:31 INFO  Client:41 - Client Client8 made order
+2016-12-30 08:13:31 INFO  Client:47 - Client Client5 had chosen CashDesk#0
+2016-12-30 08:13:31 INFO  Client:47 - Client Client6 had chosen CashDesk#44
+2016-12-30 08:13:31 INFO  Client:41 - Client Client5 made order
+2016-12-30 08:13:31 INFO  Client:47 - Client Client1 had chosen CashDesk#0
+2016-12-30 08:13:31 INFO  Client:41 - Client Client1 made order
+2016-12-30 08:13:31 INFO  Client:47 - Client Client3 had chosen CashDesk#11
+2016-12-30 08:13:31 INFO  Client:47 - Client Client2 had chosen CashDesk#22
+2016-12-30 08:13:31 INFO  Client:41 - Client Client3 made order
+2016-12-30 08:13:31 INFO  Client:41 - Client Client6 made order
+2016-12-30 08:13:31 INFO  Client:41 - Client Client2 made order
+2016-12-30 08:13:32 INFO  CashDesk:33 - Client Client0 is served
+2016-12-30 08:13:33 FATAL CashDesk:31 - sleep interrupted
+2016-12-30 08:13:33 INFO  CashDesk:33 - Client Client5 is served
+2016-12-30 08:13:33 INFO  CashDesk:33 - Client Client1 is served
+2016-12-30 08:13:38 INFO  CashDesk:33 - Client Client8 is served
+2016-12-30 08:14:11 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:14:11 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:11 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:11 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:11 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:11 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client5 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client3 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client4 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client7 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client8 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client9 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:24 - Client Client6 visit the Restaurant.
+2016-12-30 08:14:11 INFO  Client:47 - Client Client5 had chosen CashDesk#0
+2016-12-30 08:14:11 INFO  Client:41 - Client Client5 made order
+2016-12-30 08:14:11 INFO  Client:47 - Client Client4 had chosen CashDesk#44
+2016-12-30 08:14:11 INFO  Client:41 - Client Client4 made order
+2016-12-30 08:14:11 INFO  Client:47 - Client Client6 had chosen CashDesk#11
+2016-12-30 08:14:11 INFO  Client:47 - Client Client9 had chosen CashDesk#11
+2016-12-30 08:14:11 INFO  Client:41 - Client Client6 made order
+2016-12-30 08:14:11 INFO  Client:47 - Client Client1 had chosen CashDesk#0
+2016-12-30 08:14:11 INFO  Client:47 - Client Client2 had chosen CashDesk#22
+2016-12-30 08:14:11 INFO  Client:41 - Client Client2 made order
+2016-12-30 08:14:11 INFO  Client:47 - Client Client3 had chosen CashDesk#33
+2016-12-30 08:14:11 INFO  Client:41 - Client Client1 made order
+2016-12-30 08:14:11 INFO  Client:41 - Client Client9 made order
+2016-12-30 08:14:11 INFO  Client:41 - Client Client3 made order
+2016-12-30 08:14:13 INFO  CashDesk:32 - Client Client6 is served
+2016-12-30 08:14:13 INFO  CashDesk:32 - Client Client5 is served
+2016-12-30 08:14:14 INFO  CashDesk:32 - Client Client9 is served
+2016-12-30 08:14:39 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:14:39 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:39 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:39 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:39 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:39 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client7 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client6 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client3 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client5 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client8 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client9 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:24 - Client Client4 visit the Restaurant.
+2016-12-30 08:14:39 INFO  Client:47 - Client Client8 had chosen CashDesk#22
+2016-12-30 08:14:39 INFO  Client:41 - Client Client8 made order
+2016-12-30 08:14:39 INFO  Client:47 - Client Client9 had chosen CashDesk#33
+2016-12-30 08:14:39 INFO  Client:41 - Client Client9 made order
+2016-12-30 08:14:39 INFO  Client:47 - Client Client4 had chosen CashDesk#0
+2016-12-30 08:14:39 INFO  Client:47 - Client Client0 had chosen CashDesk#0
+2016-12-30 08:14:39 INFO  Client:47 - Client Client2 had chosen CashDesk#22
+2016-12-30 08:14:39 INFO  Client:47 - Client Client7 had chosen CashDesk#11
+2016-12-30 08:14:39 INFO  Client:41 - Client Client7 made order
+2016-12-30 08:14:39 INFO  Client:47 - Client Client6 had chosen CashDesk#44
+2016-12-30 08:14:39 INFO  Client:41 - Client Client6 made order
+2016-12-30 08:14:39 INFO  Client:47 - Client Client3 had chosen CashDesk#22
+2016-12-30 08:14:39 INFO  Client:41 - Client Client3 made order
+2016-12-30 08:14:39 INFO  Client:41 - Client Client2 made order
+2016-12-30 08:14:39 INFO  Client:41 - Client Client0 made order
+2016-12-30 08:14:39 INFO  Client:41 - Client Client4 made order
+2016-12-30 08:14:39 INFO  CashDesk:32 - Client Client8 is served
+2016-12-30 08:14:39 INFO  CashDesk:32 - Client Client8 is served
+2016-12-30 08:14:40 INFO  CashDesk:32 - Client Client4 is served
+2016-12-30 08:14:41 INFO  CashDesk:32 - Client Client3 is served
+2016-12-30 08:18:28 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:18:28 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:18:28 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:18:28 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:18:28 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:18:28 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client3 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client5 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client4 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client6 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client7 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client8 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:24 - Client Client9 visit the Restaurant.
+2016-12-30 08:18:28 INFO  Client:47 - Client Client9 had chosen CashDesk#11
+2016-12-30 08:18:28 INFO  Client:47 - Client Client3 had chosen CashDesk#44
+2016-12-30 08:18:28 INFO  Client:47 - Client Client2 had chosen CashDesk#0
+2016-12-30 08:18:28 INFO  Client:41 - Client Client2 made order
+2016-12-30 08:18:28 INFO  Client:47 - Client Client0 had chosen CashDesk#0
+2016-12-30 08:18:28 INFO  Client:47 - Client Client4 had chosen CashDesk#33
+2016-12-30 08:18:28 INFO  Client:47 - Client Client5 had chosen CashDesk#22
+2016-12-30 08:18:28 INFO  Client:41 - Client Client5 made order
+2016-12-30 08:18:28 INFO  CashDesk:32 - Client Client7 is served
+2016-12-30 08:18:28 INFO  Client:47 - Client Client8 had chosen CashDesk#11
+2016-12-30 08:18:28 INFO  Client:47 - Client Client7 had chosen CashDesk#22
+2016-12-30 08:18:28 INFO  Client:47 - Client Client6 had chosen CashDesk#44
+2016-12-30 08:18:28 INFO  Client:47 - Client Client1 had chosen CashDesk#0
+2016-12-30 08:18:28 INFO  Client:41 - Client Client6 made order
+2016-12-30 08:18:28 INFO  Client:41 - Client Client7 made order
+2016-12-30 08:18:28 INFO  Client:41 - Client Client8 made order
+2016-12-30 08:18:28 INFO  CashDesk:32 - Client Client4 is served
+2016-12-30 08:18:28 INFO  Client:41 - Client Client0 made order
+2016-12-30 08:18:28 INFO  CashDesk:32 - Client Client1 is served
+2016-12-30 08:18:28 INFO  Client:41 - Client Client3 made order
+2016-12-30 08:18:28 INFO  CashDesk:32 - Client Client9 is served
+2016-12-30 08:18:28 INFO  CashDesk:32 - Client Client1 is served
+2016-12-30 08:18:30 INFO  CashDesk:32 - Client Client5 is served
+2016-12-30 08:18:31 INFO  CashDesk:32 - Client Client6 is served
+2016-12-30 08:18:31 INFO  CashDesk:32 - Client Client0 is served
+2016-12-30 08:19:13 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:19:13 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:19:13 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:19:13 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:19:13 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:19:13 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:19:13 INFO  Client:47 - Client Client2 had chosen CashDesk#11
+2016-12-30 08:19:13 INFO  Client:47 - Client Client0 had chosen CashDesk#0
+2016-12-30 08:19:13 INFO  Client:41 - Client Client0 made order
+2016-12-30 08:19:13 INFO  Client:47 - Client Client1 had chosen CashDesk#11
+2016-12-30 08:19:13 INFO  CashDesk:32 - Client Client1 is served
+2016-12-30 08:19:13 INFO  CashDesk:32 - Client Client2 is served
+2016-12-30 08:19:54 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:19:54 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:19:54 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:19:54 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:19:54 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:19:54 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:19:54 INFO  Client:47 - Client Client0 had chosen CashDesk#1
+2016-12-30 08:19:54 INFO  Client:47 - Client Client1 had chosen CashDesk#1
+2016-12-30 08:19:54 INFO  Client:41 - Client Client1 made order
+2016-12-30 08:19:54 INFO  Client:47 - Client Client2 had chosen CashDesk#2
+2016-12-30 08:19:54 INFO  Client:41 - Client Client2 made order
+2016-12-30 08:19:54 INFO  Client:41 - Client Client0 made order
+2016-12-30 08:19:58 INFO  CashDesk:32 - Client Client0 is served
+2016-12-30 08:23:36 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:23:36 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:23:36 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:23:36 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:23:36 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:23:36 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:23:36 INFO  Client:47 - Client Client0 had chosen CashDesk#2
+2016-12-30 08:23:36 INFO  Client:47 - Client Client2 had chosen CashDesk#2
+2016-12-30 08:23:36 INFO  Client:47 - Client Client1 had chosen CashDesk#2
+2016-12-30 08:23:39 INFO  CashDesk:32 - Client Client2 is served
+2016-12-30 08:23:41 INFO  CashDesk:32 - Client Client1 is served
+2016-12-30 08:23:42 INFO  CashDesk:32 - Client Client0 is served
+2016-12-30 08:24:34 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:24:34 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:24:34 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:24:34 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:24:34 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:24:34 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:24:35 INFO  Client:65 - Client2 made pre order
+2016-12-30 08:24:35 INFO  Client:47 - Client Client0 had chosen CashDesk#1
+2016-12-30 08:24:35 INFO  Client:65 - Client1 made pre order
+2016-12-30 08:24:35 INFO  Client:41 - Client Client0 made order
+2016-12-30 08:24:35 INFO  Client:47 - Client Client2 had chosen CashDesk#2
+2016-12-30 08:24:35 INFO  Client:47 - Client Client1 had chosen CashDesk#1
+2016-12-30 08:24:39 INFO  CashDesk:32 - Client Client1 is served
+2016-12-30 08:24:39 INFO  CashDesk:32 - Client Client2 is served
+2016-12-30 08:25:24 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:25:24 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:25:24 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:25:24 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:25:24 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:25:24 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:25:24 INFO  Client:47 - Client Client1 had chosen CashDesk#2
+2016-12-30 08:25:24 INFO  Client:41 - Client Client1 made order
+2016-12-30 08:25:24 INFO  Client:47 - Client Client2 had chosen CashDesk#1
+2016-12-30 08:25:24 INFO  Client:41 - Client Client2 made order
+2016-12-30 08:25:24 INFO  Client:65 - Client0 made pre order
+2016-12-30 08:25:24 INFO  Client:47 - Client Client0 had chosen CashDesk#2
+2016-12-30 08:25:29 INFO  CashDesk:32 - Client Client0 is served
+2016-12-30 08:27:20 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:27:20 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:27:20 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:27:20 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:27:20 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:27:20 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:27:20 INFO  Client:48 - Client Client1 had chosen CashDesk#1
+2016-12-30 08:27:20 INFO  Client:48 - Client Client2 had chosen CashDesk#2
+2016-12-30 08:27:20 INFO  Client:42 - Client Client2 made order
+2016-12-30 08:27:20 INFO  Client:48 - Client Client0 had chosen CashDesk#2
+2016-12-30 08:27:20 INFO  Client:42 - Client Client0 made order
+2016-12-30 08:27:20 INFO  Client:42 - Client Client1 made order
+2016-12-30 08:27:22 INFO  CashDesk:32 - Client Client1 is served
+2016-12-30 08:27:26 INFO  CashDesk:32 - Client Client2 is served
+2016-12-30 08:27:26 INFO  CashDesk:32 - Client Client2 is served
+2016-12-30 08:27:32 INFO  CashDesk:32 - Client Client0 is served
+2016-12-30 08:27:51 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:27:51 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:27:51 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:27:51 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:27:51 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:27:51 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:27:51 INFO  Client:48 - Client Client1 had chosen CashDesk#1
+2016-12-30 08:27:51 INFO  Client:42 - Client Client1 made order
+2016-12-30 08:27:51 INFO  Client:48 - Client Client2 had chosen CashDesk#1
+2016-12-30 08:27:51 INFO  Client:42 - Client Client2 made order
+2016-12-30 08:27:51 INFO  Client:48 - Client Client0 had chosen CashDesk#2
+2016-12-30 08:27:51 INFO  Client:42 - Client Client0 made order
+2016-12-30 08:27:52 INFO  CashDesk:32 - Client Client2 is served
+2016-12-30 08:27:52 INFO  CashDesk:32 - Client Client2 is served
+2016-12-30 08:27:54 INFO  CashDesk:32 - Client Client1 is served
+2016-12-30 08:27:55 INFO  CashDesk:32 - Client Client0 is served
+2016-12-30 08:28:27 INFO  Restaurant:26 - Restaurant was created.
+2016-12-30 08:28:27 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:28:27 INFO  Restaurant:34 - CashDesk was added.
+2016-12-30 08:28:27 INFO  Client:24 - Client Client2 visit the Restaurant.
+2016-12-30 08:28:27 INFO  Client:24 - Client Client0 visit the Restaurant.
+2016-12-30 08:28:27 INFO  Client:24 - Client Client1 visit the Restaurant.
+2016-12-30 08:28:27 INFO  Client:63 - Client2 made pre order
+2016-12-30 08:28:27 INFO  Client:45 - Client Client1 had chosen CashDesk#2
+2016-12-30 08:28:27 INFO  Client:45 - Client Client0 had chosen CashDesk#2
+2016-12-30 08:28:27 INFO  Client:39 - Client Client1 made order
+2016-12-30 08:28:27 INFO  Client:45 - Client Client2 had chosen CashDesk#1
+2016-12-30 08:28:27 INFO  Client:39 - Client Client0 made order
+2016-12-30 08:28:30 INFO  CashDesk:32 - Client Client1 is served
+2016-12-30 08:28:31 INFO  CashDesk:32 - Client Client2 is served
+2016-12-30 08:28:34 INFO  CashDesk:32 - Client Client0 is served
+2016-12-31 11:32:19 INFO  Restaurant:26 - Restaurant was created.
+2016-12-31 11:32:19 INFO  Restaurant:34 - CashDesk was added.
+2016-12-31 11:32:19 INFO  Restaurant:34 - CashDesk was added.
+2016-12-31 11:32:19 INFO  Client:23 - Client Client1 visit the Restaurant.
+2016-12-31 11:32:19 INFO  Client:23 - Client Client2 visit the Restaurant.
+2016-12-31 11:32:19 INFO  Client:23 - Client Client0 visit the Restaurant.
+2016-12-31 11:32:20 INFO  Client:44 - Client Client1 had chosen CashDesk#2
+2016-12-31 11:32:20 INFO  Client:38 - Client Client1 made order
+2016-12-31 11:32:20 INFO  Client:44 - Client Client2 had chosen CashDesk#1
+2016-12-31 11:32:20 INFO  Client:38 - Client Client2 made order
+2016-12-31 11:32:20 INFO  Client:44 - Client Client0 had chosen CashDesk#1
+2016-12-31 11:32:20 INFO  Client:38 - Client Client0 made order
+2016-12-31 11:32:21 INFO  CashDesk:32 - Client Client1 is served
+2016-12-31 11:32:23 INFO  CashDesk:32 - Client Client0 is served
+2016-12-31 11:32:24 INFO  CashDesk:32 - Client Client2 is served
+2017-01-01 09:35:23 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 09:35:23 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 09:35:23 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 09:35:23 INFO  Client:23 - Client Client0 visit the Restaurant.
+2017-01-01 09:35:23 INFO  Client:44 - Client Client0 had chosen CashDesk#2
+2017-01-01 09:35:23 INFO  Client:38 - Client Client0 made order
+2017-01-01 09:35:26 INFO  CashDesk:32 - Client Client0 is served
+2017-01-01 09:35:26 INFO  Client:23 - Client Client1 visit the Restaurant.
+2017-01-01 09:35:26 INFO  Client:44 - Client Client1 had chosen CashDesk#2
+2017-01-01 09:35:26 INFO  Client:38 - Client Client1 made order
+2017-01-01 09:35:32 INFO  CashDesk:32 - Client Client1 is served
+2017-01-01 09:35:32 INFO  Client:23 - Client Client2 visit the Restaurant.
+2017-01-01 09:35:32 INFO  Client:62 - Client2 made pre order
+2017-01-01 09:35:32 INFO  Client:44 - Client Client2 had chosen CashDesk#2
+2017-01-01 09:35:33 INFO  CashDesk:32 - Client Client2 is served
+2017-01-01 09:36:37 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 09:36:37 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 09:36:37 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 09:36:37 INFO  Client:23 - Client Client0 visit the Restaurant.
+2017-01-01 09:36:37 INFO  Client:44 - Client Client0 had chosen CashDesk#1
+2017-01-01 09:36:37 INFO  Client:38 - Client Client0 made order
+2017-01-01 09:36:40 INFO  CashDesk:32 - Client Client0 is served
+2017-01-01 09:36:40 INFO  Client:23 - Client Client1 visit the Restaurant.
+2017-01-01 09:36:40 INFO  Client:44 - Client Client1 had chosen CashDesk#1
+2017-01-01 09:36:40 INFO  Client:38 - Client Client1 made order
+2017-01-01 09:36:41 INFO  CashDesk:32 - Client Client1 is served
+2017-01-01 09:36:41 INFO  Client:23 - Client Client2 visit the Restaurant.
+2017-01-01 09:36:41 INFO  Client:44 - Client Client2 had chosen CashDesk#2
+2017-01-01 09:36:41 INFO  Client:38 - Client Client2 made order
+2017-01-01 09:36:46 INFO  CashDesk:32 - Client Client2 is served
+2017-01-01 11:29:57 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 11:29:57 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 11:29:57 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 11:31:23 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 11:31:23 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 11:31:23 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 11:31:23 INFO  Client:23 - Client Client 0 visit the Restaurant.
+2017-01-01 11:31:24 INFO  Client:44 - Client Client 0 had chosen CashDesk#2
+2017-01-01 11:31:24 INFO  Client:38 - Client Client 0 made order
+2017-01-01 11:31:26 INFO  CashDesk:41 - Client Client 0 is served
+2017-01-01 11:31:26 INFO  Client:23 - Client Client 1 visit the Restaurant.
+2017-01-01 11:31:26 INFO  Client:44 - Client Client 1 had chosen CashDesk#1
+2017-01-01 11:31:26 INFO  Client:38 - Client Client 1 made order
+2017-01-01 11:31:27 INFO  CashDesk:41 - Client Client 1 is served
+2017-01-01 11:31:27 INFO  Client:23 - Client Client 2 visit the Restaurant.
+2017-01-01 11:31:27 INFO  Client:44 - Client Client 2 had chosen CashDesk#2
+2017-01-01 11:31:27 INFO  Client:38 - Client Client 2 made order
+2017-01-01 11:31:28 INFO  CashDesk:41 - Client Client 2 is served
+2017-01-01 16:59:25 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 16:59:26 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 16:59:26 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 16:59:26 INFO  Client:23 - Client Client 0 visit the Restaurant.
+2017-01-01 16:59:26 INFO  Client:44 - Client Client 0 had chosen CashDesk#1
+2017-01-01 16:59:26 INFO  Client:38 - Client Client 0 made order
+2017-01-01 16:59:26 INFO  CashDesk:41 - Client Client 0 is served
+2017-01-01 16:59:26 INFO  Client:23 - Client Client 1 visit the Restaurant.
+2017-01-01 16:59:26 INFO  Client:44 - Client Client 1 had chosen CashDesk#2
+2017-01-01 16:59:26 INFO  Client:38 - Client Client 1 made order
+2017-01-01 16:59:27 INFO  CashDesk:41 - Client Client 1 is served
+2017-01-01 16:59:27 INFO  Client:23 - Client Client 2 visit the Restaurant.
+2017-01-01 16:59:27 INFO  Client:44 - Client Client 2 had chosen CashDesk#1
+2017-01-01 16:59:27 INFO  Client:38 - Client Client 2 made order
+2017-01-01 16:59:29 INFO  CashDesk:41 - Client Client 2 is served
+2017-01-01 16:59:48 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 16:59:48 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 16:59:48 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 16:59:48 INFO  Client:23 - Client Client 0 visit the Restaurant.
+2017-01-01 16:59:48 INFO  Client:62 - Client 0 made pre order
+2017-01-01 16:59:48 INFO  Client:44 - Client Client 0 had chosen CashDesk#1
+2017-01-01 16:59:52 INFO  CashDesk:41 - Client Client 0 is served
+2017-01-01 16:59:52 INFO  Client:23 - Client Client 1 visit the Restaurant.
+2017-01-01 16:59:52 INFO  Client:44 - Client Client 1 had chosen CashDesk#2
+2017-01-01 16:59:52 INFO  Client:38 - Client Client 1 made order
+2017-01-01 17:00:00 INFO  CashDesk:41 - Client Client 1 is served
+2017-01-01 17:00:00 INFO  Client:23 - Client Client 2 visit the Restaurant.
+2017-01-01 17:00:00 INFO  Client:44 - Client Client 2 had chosen CashDesk#2
+2017-01-01 17:00:00 INFO  Client:38 - Client Client 2 made order
+2017-01-01 17:00:01 INFO  CashDesk:41 - Client Client 2 is served
+2017-01-01 17:00:14 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:00:14 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:00:14 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:00:14 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:00:14 INFO  Client:23 - Client Client 0 visit the Restaurant.
+2017-01-01 17:00:15 INFO  Client:44 - Client Client 0 had chosen CashDesk#2
+2017-01-01 17:00:15 INFO  Client:38 - Client Client 0 made order
+2017-01-01 17:00:15 INFO  CashDesk:41 - Client Client 0 is served
+2017-01-01 17:00:15 INFO  Client:23 - Client Client 1 visit the Restaurant.
+2017-01-01 17:00:15 INFO  Client:44 - Client Client 1 had chosen CashDesk#2
+2017-01-01 17:00:15 INFO  Client:38 - Client Client 1 made order
+2017-01-01 17:00:23 INFO  CashDesk:41 - Client Client 1 is served
+2017-01-01 17:00:23 INFO  Client:23 - Client Client 2 visit the Restaurant.
+2017-01-01 17:00:23 INFO  Client:44 - Client Client 2 had chosen CashDesk#2
+2017-01-01 17:00:23 INFO  Client:38 - Client Client 2 made order
+2017-01-01 17:00:25 INFO  CashDesk:41 - Client Client 2 is served
+2017-01-01 17:00:32 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:00:32 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:00:32 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:00:32 INFO  Client:23 - Client Client 0 visit the Restaurant.
+2017-01-01 17:00:32 INFO  Client:44 - Client Client 0 had chosen CashDesk#1
+2017-01-01 17:00:32 INFO  Client:38 - Client Client 0 made order
+2017-01-01 17:00:33 INFO  CashDesk:41 - Client Client 0 is served
+2017-01-01 17:00:33 INFO  Client:23 - Client Client 1 visit the Restaurant.
+2017-01-01 17:00:33 INFO  Client:44 - Client Client 1 had chosen CashDesk#2
+2017-01-01 17:00:33 INFO  Client:38 - Client Client 1 made order
+2017-01-01 17:00:35 INFO  CashDesk:41 - Client Client 1 is served
+2017-01-01 17:00:35 INFO  Client:23 - Client Client 2 visit the Restaurant.
+2017-01-01 17:00:35 INFO  Client:44 - Client Client 2 had chosen CashDesk#2
+2017-01-01 17:00:35 INFO  Client:38 - Client Client 2 made order
+2017-01-01 17:00:41 INFO  CashDesk:41 - Client Client 2 is served
+2017-01-01 17:00:50 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:00:50 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:00:50 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:00:50 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:00:50 INFO  Client:23 - Client Client 0 visit the Restaurant.
+2017-01-01 17:00:50 INFO  Client:44 - Client Client 0 had chosen CashDesk#1
+2017-01-01 17:00:50 INFO  Client:38 - Client Client 0 made order
+2017-01-01 17:00:51 INFO  CashDesk:41 - Client Client 0 is served
+2017-01-01 17:00:51 INFO  Client:23 - Client Client 1 visit the Restaurant.
+2017-01-01 17:00:51 INFO  Client:44 - Client Client 1 had chosen CashDesk#2
+2017-01-01 17:00:51 INFO  Client:38 - Client Client 1 made order
+2017-01-01 17:00:53 INFO  CashDesk:41 - Client Client 1 is served
+2017-01-01 17:00:53 INFO  Client:23 - Client Client 2 visit the Restaurant.
+2017-01-01 17:00:53 INFO  Client:44 - Client Client 2 had chosen CashDesk#1
+2017-01-01 17:00:53 INFO  Client:38 - Client Client 2 made order
+2017-01-01 17:00:53 INFO  CashDesk:41 - Client Client 2 is served
+2017-01-01 17:02:16 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:02:16 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:02:16 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:02:16 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:02:16 INFO  Client:23 - Client Client 0 visit the Restaurant.
+2017-01-01 17:02:16 INFO  Client:44 - Client Client 0 had chosen CashDesk#1
+2017-01-01 17:02:16 INFO  Client:38 - Client Client 0 made order
+2017-01-01 17:02:19 INFO  CashDesk:41 - Client Client 0 is served
+2017-01-01 17:02:19 INFO  Client:23 - Client Client 1 visit the Restaurant.
+2017-01-01 17:02:19 INFO  Client:62 - Client 1 made pre order
+2017-01-01 17:02:19 INFO  Client:44 - Client Client 1 had chosen CashDesk#2
+2017-01-01 17:02:21 INFO  CashDesk:41 - Client Client 1 is served
+2017-01-01 17:02:21 INFO  Client:23 - Client Client 2 visit the Restaurant.
+2017-01-01 17:02:21 INFO  Client:44 - Client Client 2 had chosen CashDesk#1
+2017-01-01 17:02:21 INFO  Client:38 - Client Client 2 made order
+2017-01-01 17:02:24 INFO  CashDesk:41 - Client Client 2 is served
+2017-01-01 17:04:30 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:04:30 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:04:30 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:04:30 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:04:30 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-01 17:04:30 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-01 17:04:30 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-01 17:04:31 INFO  Client:62 - Marlin made pre order
+2017-01-01 17:04:31 INFO  Client:44 - Client Client had chosen CashDesk#1
+2017-01-01 17:04:31 INFO  Client:44 - Client Fuhrer had chosen CashDesk#1
+2017-01-01 17:04:31 INFO  Client:38 - Client Fuhrer made order
+2017-01-01 17:04:31 INFO  Client:38 - Client Client made order
+2017-01-01 17:04:31 INFO  Client:44 - Client Marlin had chosen CashDesk#2
+2017-01-01 17:04:33 INFO  CashDesk:41 - Client Fuhrer is served
+2017-01-01 17:04:35 INFO  CashDesk:41 - Client Client is served
+2017-01-01 17:04:36 INFO  CashDesk:41 - Client Marlin is served
+2017-01-01 17:46:36 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:46:36 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:46:36 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:46:36 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:46:37 INFO  Client:22 - Client Client visit the Restaurant.
+2017-01-01 17:46:37 INFO  Client:22 - Client Fuhrer visit the Restaurant.
+2017-01-01 17:46:37 INFO  Client:22 - Client Marlin visit the Restaurant.
+2017-01-01 17:46:37 INFO  Client:63 - Client made pre order
+2017-01-01 17:46:37 INFO  Client:45 - Client Fuhrer had chosen CashDesk#1
+2017-01-01 17:46:37 INFO  Client:45 - Client Marlin had chosen CashDesk#2
+2017-01-01 17:46:37 INFO  Client:39 - Client Marlin made order
+2017-01-01 17:46:37 INFO  Client:39 - Client Fuhrer made order
+2017-01-01 17:46:37 INFO  Client:45 - Client Client had chosen CashDesk#1
+2017-01-01 17:46:40 INFO  CashDesk:41 - Client Fuhrer is served
+2017-01-01 17:46:41 INFO  CashDesk:41 - Client Marlin is served
+2017-01-01 17:46:42 INFO  CashDesk:41 - Client Client is served
+2017-01-01 17:47:27 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:47:27 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:47:27 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:47:27 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:47:27 INFO  Client:22 - Client Client visit the Restaurant.
+2017-01-01 17:47:27 INFO  Client:22 - Client Marlin visit the Restaurant.
+2017-01-01 17:47:27 INFO  Client:22 - Client Fuhrer visit the Restaurant.
+2017-01-01 17:47:27 INFO  Client:62 - Fuhrer made pre order
+2017-01-01 17:47:27 INFO  Client:44 - Client Client had chosen CashDesk#1
+2017-01-01 17:47:27 INFO  Client:62 - Marlin made pre order
+2017-01-01 17:47:27 INFO  Client:38 - Client Client made order
+2017-01-01 17:47:27 INFO  Client:44 - Client Fuhrer had chosen CashDesk#2
+2017-01-01 17:47:27 INFO  Client:44 - Client Marlin had chosen CashDesk#1
+2017-01-01 17:47:29 INFO  CashDesk:41 - Client Marlin is served
+2017-01-01 17:47:31 INFO  CashDesk:41 - Client Client is served
+2017-01-01 17:47:33 INFO  CashDesk:41 - Client Fuhrer is served
+2017-01-01 17:48:19 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:48:19 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:48:19 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:48:19 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:48:19 INFO  Client:22 - Client Client visit the Restaurant.
+2017-01-01 17:48:19 INFO  Client:22 - Client Marlin visit the Restaurant.
+2017-01-01 17:48:19 INFO  Client:22 - Client Fuhrer visit the Restaurant.
+2017-01-01 17:48:19 INFO  Client:46 - Client Marlin had chosen CashDesk#1
+2017-01-01 17:48:19 INFO  Client:46 - Client Client had chosen CashDesk#2
+2017-01-01 17:48:19 INFO  Client:46 - Client Fuhrer had chosen CashDesk#1
+2017-01-01 17:48:19 INFO  Client:40 - Client Client made order
+2017-01-01 17:48:19 INFO  Client:40 - Client Marlin made order
+2017-01-01 17:48:19 INFO  Client:40 - Client Fuhrer made order
+2017-01-01 17:48:19 INFO  CashDesk:41 - Client Marlin is served
+2017-01-01 17:48:19 INFO  CashDesk:41 - Client Fuhrer is served
+2017-01-01 17:48:22 INFO  CashDesk:41 - Client Client is served
+2017-01-01 17:48:38 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:48:39 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:48:39 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:48:39 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:48:39 INFO  Client:22 - Client Client visit the Restaurant.
+2017-01-01 17:48:39 INFO  Client:22 - Client Marlin visit the Restaurant.
+2017-01-01 17:48:39 INFO  Client:22 - Client Fuhrer visit the Restaurant.
+2017-01-01 17:48:39 INFO  Client:46 - Client Marlin had chosen CashDesk#1
+2017-01-01 17:48:39 INFO  Client:46 - Client Client had chosen CashDesk#2
+2017-01-01 17:48:39 INFO  Client:46 - Client Fuhrer had chosen CashDesk#2
+2017-01-01 17:48:39 INFO  Client:40 - Client Fuhrer made order
+2017-01-01 17:48:39 INFO  Client:40 - Client Client made order
+2017-01-01 17:48:39 INFO  Client:40 - Client Marlin made order
+2017-01-01 17:48:41 INFO  CashDesk:41 - Client Client is served
+2017-01-01 17:48:44 INFO  CashDesk:41 - Client Marlin is served
+2017-01-01 17:48:45 INFO  CashDesk:41 - Client Fuhrer is served
+2017-01-01 17:51:57 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:51:57 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:51:57 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:51:57 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:51:57 INFO  Client:22 - Client Fuhrer visit the Restaurant.
+2017-01-01 17:51:57 INFO  Client:22 - Client Client visit the Restaurant.
+2017-01-01 17:51:57 INFO  Client:22 - Client Marlin visit the Restaurant.
+2017-01-01 17:51:57 INFO  Client:45 - Client Client had chosen CashDesk#1
+2017-01-01 17:51:57 INFO  Client:45 - Client Marlin had chosen CashDesk#2
+2017-01-01 17:51:57 INFO  Client:45 - Client Fuhrer had chosen CashDesk#2
+2017-01-01 17:51:57 INFO  Client:39 - Client Marlin made order
+2017-01-01 17:51:57 INFO  Client:39 - Client Fuhrer made order
+2017-01-01 17:51:57 INFO  Client:39 - Client Client made order
+2017-01-01 17:52:00 INFO  CashDesk:45 - Client Fuhrer is served
+2017-01-01 17:52:00 INFO  CashDesk:45 - Client Marlin is served
+2017-01-01 17:52:02 INFO  CashDesk:45 - Client Client is served
+2017-01-01 17:53:18 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 17:53:18 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 17:53:18 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:53:18 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 17:53:18 INFO  Client:22 - Client Marlin visit the Restaurant.
+2017-01-01 17:53:18 INFO  Client:22 - Client Client visit the Restaurant.
+2017-01-01 17:53:18 INFO  Client:22 - Client Fuhrer visit the Restaurant.
+2017-01-01 17:53:18 INFO  Client:45 - Client Client had chosen CashDesk#1
+2017-01-01 17:53:18 INFO  Client:45 - Client Fuhrer had chosen CashDesk#1
+2017-01-01 17:53:18 INFO  Client:45 - Client Marlin had chosen CashDesk#1
+2017-01-01 17:53:18 INFO  Client:39 - Client Fuhrer made order
+2017-01-01 17:53:18 INFO  Client:39 - Client Client made order
+2017-01-01 17:53:18 INFO  Client:39 - Client Marlin made order
+2017-01-01 17:53:19 INFO  CashDesk:32 - Client Marlin is served
+2017-01-01 17:53:20 INFO  CashDesk:32 - Client Client is served
+2017-01-01 17:53:23 INFO  CashDesk:32 - Client Fuhrer is served
+2017-01-01 19:41:28 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 19:41:28 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 19:41:28 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 19:41:28 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 19:41:28 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-01 19:41:28 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-01 19:41:28 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-01 19:41:28 INFO  Client:54 - Client Marlin had chosen CashDesk#2
+2017-01-01 19:41:28 INFO  Client:48 - Client Marlin made order
+2017-01-01 19:41:28 INFO  Client:54 - Client Client had chosen CashDesk#1
+2017-01-01 19:41:28 INFO  Client:48 - Client Client made order
+2017-01-01 19:41:28 INFO  Client:54 - Client Fuhrer had chosen CashDesk#2
+2017-01-01 19:41:32 INFO  CashDesk:32 - Client Client is served
+2017-01-01 19:41:33 INFO  CashDesk:32 - Client Marlin is served
+2017-01-01 19:41:34 INFO  Client:48 - Client Fuhrer made order
+2017-01-01 19:41:35 INFO  CashDesk:32 - Client Fuhrer is served
+2017-01-01 19:42:52 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 19:42:52 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 19:42:52 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 19:42:52 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 19:42:52 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-01 19:42:52 INFO  Client:23 - Client Nesquik visit the Restaurant.
+2017-01-01 19:42:52 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-01 19:42:52 INFO  Client:23 - Client Tea visit the Restaurant.
+2017-01-01 19:42:52 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-01 19:42:53 INFO  Client:72 - Tea made pre order
+2017-01-01 19:42:53 INFO  Client:54 - Client Tea had chosen CashDesk#2
+2017-01-01 19:42:53 INFO  Client:54 - Client Client had chosen CashDesk#2
+2017-01-01 19:42:53 INFO  Client:48 - Client Client made order
+2017-01-01 19:42:53 INFO  Client:54 - Client Nesquik had chosen CashDesk#1
+2017-01-01 19:42:53 INFO  Client:54 - Client Marlin had chosen CashDesk#1
+2017-01-01 19:42:53 INFO  Client:54 - Client Fuhrer had chosen CashDesk#1
+2017-01-01 19:42:53 INFO  Client:48 - Client Fuhrer made order
+2017-01-01 19:42:54 INFO  CashDesk:32 - Client Fuhrer is served
+2017-01-01 19:42:55 INFO  Client:48 - Client Marlin made order
+2017-01-01 19:42:56 INFO  CashDesk:32 - Client Tea is served
+2017-01-01 19:42:59 INFO  CashDesk:32 - Client Marlin is served
+2017-01-01 19:42:59 INFO  Client:48 - Client Nesquik made order
+2017-01-01 19:43:00 INFO  CashDesk:32 - Client Client is served
+2017-01-01 19:43:03 INFO  CashDesk:32 - Client Nesquik is served
+2017-01-01 19:54:51 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 19:54:52 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 19:54:52 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 19:54:52 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 19:54:52 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-01 19:54:52 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-01 19:54:52 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-01 19:54:52 INFO  Client:23 - Client Nesquik visit the Restaurant.
+2017-01-01 19:54:52 INFO  Client:23 - Client Tea visit the Restaurant.
+2017-01-01 19:54:52 INFO  Client:54 - Client Client had chosen CashDesk#2
+2017-01-01 19:54:52 INFO  Client:54 - Client Fuhrer had chosen CashDesk#2
+2017-01-01 19:54:52 INFO  Client:54 - Client Tea had chosen CashDesk#2
+2017-01-01 19:54:52 INFO  Client:54 - Client Marlin had chosen CashDesk#2
+2017-01-01 19:54:52 INFO  Client:54 - Client Nesquik had chosen CashDesk#2
+2017-01-01 19:54:52 INFO  Client:48 - Client Nesquik made order
+2017-01-01 19:54:53 INFO  CashDesk:32 - Client Nesquik is served
+2017-01-01 19:54:54 INFO  Client:48 - Client Tea made order
+2017-01-01 19:55:00 INFO  CashDesk:32 - Client Tea is served
+2017-01-01 19:55:01 INFO  Client:48 - Client Marlin made order
+2017-01-01 19:55:05 INFO  CashDesk:32 - Client Marlin is served
+2017-01-01 19:55:05 INFO  Client:48 - Client Fuhrer made order
+2017-01-01 19:55:12 INFO  CashDesk:32 - Client Fuhrer is served
+2017-01-01 19:58:48 INFO  Restaurant:26 - Restaurant was created.
+2017-01-01 19:58:48 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-01 19:58:48 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 19:58:48 INFO  Restaurant:34 - CashDesk was added.
+2017-01-01 19:58:48 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-01 19:58:48 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-01 19:58:48 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-01 19:58:48 INFO  Client:23 - Client Nesquik visit the Restaurant.
+2017-01-01 19:58:48 INFO  Client:23 - Client Tea visit the Restaurant.
+2017-01-01 19:58:49 INFO  Client:54 - Client Client had chosen CashDesk#2
+2017-01-01 19:58:49 INFO  Client:48 - Client Client made order
+2017-01-01 19:58:49 INFO  Client:54 - Client Tea had chosen CashDesk#2
+2017-01-01 19:58:49 INFO  Client:54 - Client Fuhrer had chosen CashDesk#1
+2017-01-01 19:58:49 INFO  Client:54 - Client Marlin had chosen CashDesk#1
+2017-01-01 19:58:49 INFO  Client:48 - Client Marlin made order
+2017-01-01 19:58:49 INFO  Client:54 - Client Nesquik had chosen CashDesk#2
+2017-01-01 19:58:52 INFO  CashDesk:32 - Client Marlin is served
+2017-01-01 19:58:52 INFO  Client:48 - Client Fuhrer made order
+2017-01-01 19:58:54 INFO  CashDesk:32 - Client Fuhrer is served
+2017-01-01 19:58:55 INFO  CashDesk:32 - Client Client is served
+2017-01-01 19:58:56 INFO  Client:48 - Client Tea made order
+2017-01-01 19:59:02 INFO  CashDesk:32 - Client Tea is served
+2017-01-01 19:59:03 INFO  Client:48 - Client Nesquik made order
+2017-01-01 19:59:03 INFO  CashDesk:32 - Client Nesquik is served
+2017-01-02 11:14:08 INFO  Restaurant:26 - Restaurant was created.
+2017-01-02 11:14:08 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-02 11:14:08 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 11:14:08 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 11:14:08 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-02 11:14:08 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-02 11:14:08 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-02 11:14:08 INFO  Client:23 - Client Nesquik visit the Restaurant.
+2017-01-02 11:14:09 INFO  Client:23 - Client Tea visit the Restaurant.
+2017-01-02 11:14:09 INFO  Client:54 - Client Marlin had chosen CashDesk#1
+2017-01-02 11:14:09 INFO  Client:54 - Client Tea had chosen CashDesk#1
+2017-01-02 11:14:09 INFO  Client:54 - Client Client had chosen CashDesk#2
+2017-01-02 11:14:09 INFO  Client:48 - Client Marlin made order
+2017-01-02 11:14:09 INFO  Client:54 - Client Fuhrer had chosen CashDesk#2
+2017-01-02 11:14:09 INFO  Client:48 - Client Fuhrer made order
+2017-01-02 11:14:09 INFO  Client:54 - Client Nesquik had chosen CashDesk#1
+2017-01-02 11:14:13 INFO  CashDesk:30 - Client Marlin is served
+2017-01-02 11:14:13 INFO  Client:48 - Client Tea made order
+2017-01-02 11:14:14 INFO  CashDesk:30 - Client Tea is served
+2017-01-02 11:14:14 INFO  Client:48 - Client Nesquik made order
+2017-01-02 11:14:15 INFO  CashDesk:30 - Client Fuhrer is served
+2017-01-02 11:14:15 INFO  Client:48 - Client Client made order
+2017-01-02 11:14:19 INFO  CashDesk:30 - Client Nesquik is served
+2017-01-02 11:14:19 INFO  CashDesk:30 - Client Client is served
+2017-01-02 13:35:15 INFO  Restaurant:26 - Restaurant was created.
+2017-01-02 13:35:15 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-02 13:35:15 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 13:35:15 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 13:35:15 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-02 13:35:15 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-02 13:35:15 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-02 13:35:15 INFO  Client:23 - Client Nesquik visit the Restaurant.
+2017-01-02 13:35:15 INFO  Client:23 - Client Tea visit the Restaurant.
+2017-01-02 13:36:12 INFO  Restaurant:26 - Restaurant was created.
+2017-01-02 13:36:12 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-02 13:36:12 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 13:36:12 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 13:36:12 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-02 13:36:12 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-02 13:36:12 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-02 13:36:12 INFO  Client:23 - Client Tea visit the Restaurant.
+2017-01-02 13:36:12 INFO  Client:23 - Client Nesquik visit the Restaurant.
+2017-01-02 13:36:12 INFO  Client:54 - Client Client had chosen CashDesk#1
+2017-01-02 13:36:12 INFO  Client:54 - Client Nesquik had chosen CashDesk#2
+2017-01-02 13:36:12 INFO  Client:54 - Client Fuhrer had chosen CashDesk#1
+2017-01-02 13:36:12 INFO  Client:54 - Client Marlin had chosen CashDesk#1
+2017-01-02 13:36:12 INFO  Client:54 - Client Tea had chosen CashDesk#1
+2017-01-02 13:36:12 INFO  Client:48 - Client Nesquik made order
+2017-01-02 13:36:12 INFO  Client:48 - Client Tea made order
+2017-01-02 13:36:15 INFO  CashDesk:32 - Client Tea is served
+2017-01-02 13:36:16 INFO  Client:48 - Client Marlin made order
+2017-01-02 13:36:18 INFO  CashDesk:32 - Client Nesquik is served
+2017-01-02 13:36:20 INFO  CashDesk:32 - Client Marlin is served
+2017-01-02 13:36:20 INFO  Client:48 - Client Fuhrer made order
+2017-01-02 13:36:20 INFO  CashDesk:32 - Client Fuhrer is served
+2017-01-02 13:37:06 INFO  Restaurant:26 - Restaurant was created.
+2017-01-02 13:37:07 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-02 13:37:07 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 13:37:07 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 13:37:07 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-02 13:37:07 INFO  Client:23 - Client Tea visit the Restaurant.
+2017-01-02 13:37:07 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-02 13:37:07 INFO  Client:23 - Client Nesquik visit the Restaurant.
+2017-01-02 13:37:07 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-02 13:37:07 INFO  Client:79 - Tea made pre order
+2017-01-02 13:37:07 INFO  Client:54 - Client Fuhrer had chosen CashDesk#1
+2017-01-02 13:37:07 INFO  Client:54 - Client Client had chosen CashDesk#1
+2017-01-02 13:37:07 INFO  Client:54 - Client Marlin had chosen CashDesk#2
+2017-01-02 13:37:07 INFO  Client:54 - Client Nesquik had chosen CashDesk#1
+2017-01-02 13:37:07 INFO  Client:48 - Client Marlin made order
+2017-01-02 13:37:07 INFO  Client:48 - Client Client made order
+2017-01-02 13:37:07 INFO  Client:54 - Client Tea had chosen CashDesk#1
+2017-01-02 13:37:11 INFO  CashDesk:34 - Client Marlin is served
+2017-01-02 13:37:11 INFO  CashDesk:34 - Client Client is served
+2017-01-02 13:37:12 INFO  Client:48 - Client Nesquik made order
+2017-01-02 13:37:15 INFO  CashDesk:34 - Client Tea is served
+2017-01-02 13:37:19 INFO  CashDesk:34 - Client Nesquik is served
+2017-01-02 13:37:20 INFO  Client:48 - Client Fuhrer made order
+2017-01-02 13:37:22 INFO  CashDesk:34 - Client Fuhrer is served
+2017-01-02 13:58:22 INFO  Restaurant:26 - Restaurant was created.
+2017-01-02 13:58:22 INFO  TxtFileReader:19 - File src/main/resources/data.txt successfully read.
+2017-01-02 13:58:22 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 13:58:22 INFO  Restaurant:34 - CashDesk was added.
+2017-01-02 13:58:22 INFO  Client:23 - Client Marlin visit the Restaurant.
+2017-01-02 13:58:22 INFO  Client:23 - Client Nesquik visit the Restaurant.
+2017-01-02 13:58:22 INFO  Client:23 - Client Fuhrer visit the Restaurant.
+2017-01-02 13:58:22 INFO  Client:23 - Client Tea visit the Restaurant.
+2017-01-02 13:58:22 INFO  Client:23 - Client Client visit the Restaurant.
+2017-01-02 13:58:22 INFO  Client:54 - Client Tea had chosen CashDesk#2
+2017-01-02 13:58:22 INFO  Client:79 - Client made pre order
+2017-01-02 13:58:22 INFO  Client:54 - Client Fuhrer had chosen CashDesk#1
+2017-01-02 13:58:22 INFO  Client:54 - Client Nesquik had chosen CashDesk#2
+2017-01-02 13:58:22 INFO  Client:54 - Client Marlin had chosen CashDesk#1
+2017-01-02 13:58:22 INFO  Client:54 - Client Client had chosen CashDesk#2
+2017-01-02 13:58:22 INFO  Client:48 - Client Tea made order
+2017-01-02 13:58:22 INFO  Client:48 - Client Marlin made order
+2017-01-02 13:58:24 INFO  CashDesk:34 - Client Marlin is served
+2017-01-02 13:58:24 INFO  Client:48 - Client Fuhrer made order
+2017-01-02 13:58:24 INFO  CashDesk:34 - Client Fuhrer is served
+2017-01-02 13:58:29 INFO  CashDesk:34 - Client Client is served
+2017-01-02 13:58:30 INFO  CashDesk:34 - Client Tea is served
+2017-01-02 13:58:30 INFO  Client:48 - Client Nesquik made order
+2017-01-02 13:58:35 INFO  CashDesk:34 - Client Nesquik is served
